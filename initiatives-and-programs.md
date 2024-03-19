@@ -1,14 +1,14 @@
 [Previous](standards.md) | [Table of contents](README.md) | [Next](usage-methods-of-ml-and-ai-for-eo.md)
 
 ***
-# 6. Initiatives and Programs
+# 4. Initiatives and Programs
 
 **TODO
 I have to write some introduction about several initiatives and programs for AI and ML.
 It might be a shortcut in some cases/students. Because those activities have all information such as data, use cases, platforms and tools.
 **
 
-## 6.1. NASA (ESDIS, IMPACT)
+## 4.1. NASA (ESDIS, IMPACT)
 NASA's Earth Science Division programs are investing in specific areas of AI/ML with specific strategies at the Earth Science Division level to avoid duplication of effort.  
 
 We outline five NASA organizations and their five major goals for AI/ML below,
@@ -49,7 +49,7 @@ Advancing an Open-Access Repository for Earth Observation Training Data and Mach
 - [Spatio-Temporal Machine Learning and Cloud Computing for Predicting Dynamics of Global Vegetation Structure from Active Satellite Sensors](https://www.earthdata.nasa.gov/esds/competitive-programs/access/ml-vegetation-structure)
 - [Training Data for Streamflow Estimation](https://www.earthdata.nasa.gov/esds/competitive-programs/access/streamflow-estimation)
 
-## 6.2. NOAA/NCAI (Rob Redmon,Douglas Rao)
+## 4.2. NOAA/NCAI (Rob Redmon,Douglas Rao)
 NOAA has a long history using AI, including machine learning (ML) to support its mission areas, such as deep-sea exploration, habitat characterization, fishery species assessments, environmental modeling, and interpretation of Earth observations. In 2021, NOAA released its first AI Strategy with five goals:
 
 1. Establish an efficient organizational structure and processes to advance AI across NOAA.
@@ -71,7 +71,7 @@ At its current stage, the AI-readiness assessment requires data experts to go th
 
 Additionally, NOAA has invested in the improvement of selected datasets for AI applications, such as, [Tropical Cyclone PRecipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED)](https://rammb-data.cira.colostate.edu/tcprimed/), NOAA Climate Data Records, and [water column sonar data.](https://www.ncei.noaa.gov/products/water-column-sonar-data) 
 
-## 6.3 Indian Space Research Organization (ISRO)
+## 4.3 Indian Space Research Organization (ISRO)
 
 The Indian Space Research Organisation (ISRO) has increasingly incorporated Artificial Intelligence (AI) in various facets of Earth observation data processing, marking a transformative shift in data processing technology. AI is playing a pivotal role in automating and enhancing the efficiency of data analysis, enabling ISRO to glean valuable insights from the vast amounts of information gathered by Earth observation satellites. 
 ISRO’s work in the field of AI can be categorized in three broad domains - Data acquisition related processing, data processing/fusion/augmentation and information extraction. Some key representative tasks in each category, that are being addressed through the use of AI, are shown in Figure X. Machine learning algorithms, particularly deep learning models, are being utilized to surpass the classical approaches in each of these domains to improve the overall impact of the Earth observation data collected and processed at ISRO.
