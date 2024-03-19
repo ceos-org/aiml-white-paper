@@ -1,4 +1,4 @@
-[Next](Introduction.md)
+[Next](introduction.md)
 
 ***
 # CEOS ML/DL/AI White Paper 
@@ -47,4 +47,4 @@ B- MLOps related definitions / sections:
 10. Conclusion
 Reference
 ***
-[Next](Introduction.md)
+[Next](introduction.md)
