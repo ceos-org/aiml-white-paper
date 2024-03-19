@@ -1,4 +1,4 @@
-[Previous](Introduction.md) | [Table of contents](README.md) | [Next](standards.md)
+[Previous](introduction.md) | [Table of contents](README.md) | [Next](standards.md)
 
 ***
 # 2. Background
@@ -24,4 +24,4 @@ CEOS agencies have also conducted studies of the analysis using machine learning
 These contents and findings are summarized in this document to assist researchers and data providers as they begin their research.
 
 ***
-[Previous](Introduction.md) | [Table of contents](README.md) | [Next](standards.md)
+[Previous](introduction.md) | [Table of contents](README.md) | [Next](standards.md)
