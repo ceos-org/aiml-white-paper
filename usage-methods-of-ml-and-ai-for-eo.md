@@ -1,4 +1,4 @@
-[Previous](initiatives-and-programs.md) | [Table of contents](README.md) | [Next](use-cases-at--WGISS.md)
+[Previous](initiatives-and-programs.md) | [Table of contents](README.md) | [Next](use-cases-at-WGISS.md)
 
 ***
 # 5. Usage methods of machine learning and AI for Earth observation
@@ -43,4 +43,4 @@ A regression task is one where instead of values being predicted to a discrete c
 A surrogate model, or model emulator is an approach which represents a large scale numerical model, and approximates all or a component of the state of the model from a set of given inputs. This is particularly useful for interpreting smaller components of models or making short time predictions on individual variables, which has the ability of hypoxic events in marine biogeochemical models, without the requirement to run the entire model for a particular time range. The real advantage of these models is that they can produce considerably less computationally expensive equivalents to models, which can be run multiple times to explore a set of given scenarios quickly and efficiently, so could be advantageous for Near Real Time (NRT) prediction and forecasting.  
 
 ***
-[Previous](initiatives-and-programs.md) | [Table of contents](README.md) | [Next](use-cases-at--WGISS.md)
+[Previous](initiatives-and-programs.md) | [Table of contents](README.md) | [Next](use-cases-at-WGISS.md)
