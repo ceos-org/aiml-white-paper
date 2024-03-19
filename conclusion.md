@@ -1,4 +1,4 @@
-[Previous](background.md) | [Table of contents](README.md) 
+[Previous](data-and-platform.md) | [Table of contents](README.md) 
 
 ***
 # 8. Conclusion
@@ -6,4 +6,4 @@ Researchers who work on machine learning and AI using Earth observation data and
 In addition, researchers   are invited to consider data sharing as a data provider of Earth observation data for mutual use of data and expansion of data in each analysis platform.
 
 ***
-[Previous](background.md) | [Table of contents](README.md) 
+[Previous](data-and-platform.md) | [Table of contents](README.md) 
