@@ -33,8 +33,8 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 - Data verification: NA
 - Data splitting: 50/50 percent testing/training,
 
-## 8.2. Marine monitoring
-### 8.2.2. Sea ice-covered area
+## 6.2. Marine monitoring
+### 6.2.2. Sea ice-covered area
 
 #### A - General Definitions: 
 
@@ -63,9 +63,9 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 - Data verification:  
 - Data splitting: 30/70 percent testing/training
 
-## 8.3. Climate
+## 6.3. Climate
 
-### 8.3.3. Precipitation data
+### 6.3.3. Precipitation data
 
 #### A - General Definitions: 
 
@@ -93,9 +93,9 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 - Data verification:  
 - Data splitting: 2007-2019 data for training, 2020 data for testing
 
-## 8.x. Flood
+## 6.x. Flood
 
-## 8.x. Disaster
+## 6.x. Disaster
 
 ***
 [Previous](usage-methods-of-ml-and-ai-for-eo.md) | [Table of contents](README.md) | [Next](data-and-platform.md)
