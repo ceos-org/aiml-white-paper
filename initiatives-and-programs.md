@@ -87,3 +87,6 @@ The final category of AI related tasks is the information extraction category. T
 The work related to this aspect is integrated via research and development related to core topics in AI such as development of new models for specific applications, adaptation of cutting edge research for specific use cases, implementation of infrastructure for supporting development and deployment of AI applications, and core AI research such as explainable AI. Work is also being done to integrate and harness the potential of vast amounts of data available from ISRO’s fleet of remote sensing sensors. 
 
 ISRO is also working towards a common framework, where the work related to AI that is taking place across different teams and projects can be synergized. In this direction, some standards have been studied and are planned to be implemented in near future. Some of these models are now being integrated into publicly available web-platforms.
+
+***
+[Previous](standards.md) | [Table of contents](README.md) | [Next](usage-methods-of-ml-and-ai-for-eo.md)
