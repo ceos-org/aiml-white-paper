@@ -1,4 +1,4 @@
-[Previous](background.md) | [Table of contents](README.md) | [Next](conclusion.md)
+[Previous](use-cases-at-WGISS.md) | [Table of contents](README.md) | [Next](conclusion.md)
 
 ***
 
@@ -20,4 +20,4 @@ This section also introduces the platforms that are not presented in the section
 Appendix. Platform
 
 ***
-[Previous](background.md) | [Table of contents](README.md) | [Next](conclusion.md)
+[Previous](use-cases-at-WGISS.md) | [Table of contents](README.md) | [Next](conclusion.md)
