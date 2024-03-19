@@ -1,4 +1,4 @@
-[Previous](background.md) | [Table of contents](README.md) | [Next](data-and-platform.md)
+[Previous](usage-methods-of-ml-and-ai-for-eo.md) | [Table of contents](README.md) | [Next](data-and-platform.md)
 
 ***
 
@@ -98,4 +98,4 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 ## 8.x. Disaster
 
 ***
-[Previous](background.md) | [Table of contents](README.md) | [Next](data-and-platform.md)
+[Previous](usage-methods-of-ml-and-ai-for-eo.md) | [Table of contents](README.md) | [Next](data-and-platform.md)
