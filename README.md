@@ -25,7 +25,7 @@ Issue: Version X.X
   - [4.1. NASA (ESDIS, IMPACT)](initiatives-and-programs.md#41-nasa-esdis-impact)
   - [4.2. NOAA/NCAI (Rob Redmon,Douglas Rao)](initiatives-and-programs.md#42-noaancai-rob-redmondouglas-rao)
   - [4.3 Indian Space Research Organization (ISRO)](initiatives-and-programs.md#43-indian-space-research-organization-isro)
-  - [4.4 European Space Agency Φ-lab](initiatives-and-programs.md#44-european-space-agency-Φ-lab)
+  - [4.4 European Space Agency Φ-lab](initiatives-and-programs.md#44-european-space-agency-φ-lab)
 - [5. Usage methods of machine learning and AI for Earth observation](usage-methods-of-ml-and-ai-for-eo.md#5-usage-methods-of-machine-learning-and-ai-for-earth-observation)
 - [6. Use cases at agency joined WGISS](use-cases-at-WGISS.md#6-use-cases-at-agency-joined-wgiss)
   - [6.1. Agriculture](use-cases-at-WGISS.md#61-agriculture)
