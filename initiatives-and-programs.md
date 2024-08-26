@@ -7,8 +7,29 @@
 I have to write some introduction about several initiatives and programs for AI and ML.
 It might be a shortcut in some cases/students. Because those activities have all information such as data, use cases, platforms and tools.
 **
+# 4.1. CEOS/SEO (EO-GPT & CEOS-GPT)
 
-## 4.1. NASA (ESDIS, IMPACT)
+The CEOS Systems Engineering Office provides leadership and support to CEOS through management and technical services and by developing tools and methods for societal benefit. The CEOS SEO also provides innovation and thought leadership in the area of AI/ML applied to the use of Earth Observation (EO) data. The CEOS SEO is working on two early-stage research projects which serve as frameworks for experimenting with modern LLM/AI research and tooling: 1. EO-GPT and 2. CEOS-GPT.
+
+1. EO-GPT is a Natural language processing (NLP) interface for processing EO data and answering Earth Observation questions. EO-GPT provides a chat interface for the Earth sciences and remote sensing applications domain. It is an LLM augmented interactive analysis framework. Earth observation analysis is modular by nature. The goal of EOGPT is to create a framework that orchestrates custom analysis flexibly using large language models as the orchestration mechanism. EO-GPT features:
+    * A module-based system whereby earth-observation algorithms run as microservices. Modules have natural language outputs (to aid in live execution/parameterization).
+    * A large language model orchestrates the execution of these modules.
+    * An LLM parameterizes the use of modules based on initial conditions/queries, but also utilizes information given from modules for live parameterization of processing steps.
+    * Offers a chat visualization of geospatial assets and content.
+
+2. CEOS-GPT is an interface to all the information available on the CEOS website (http://www.ceos.org/). CEOS GPT provides a question and answering chatbot that operates on the large volume of CEOS data,  with the vision of addressing a wide range of topics including training and meeting information, organizational questions, policy questions, and data availability. CEOS-GPT features:
+    * CEOS website and private documents are indexed in a retrieval augmented generative (RAG) system.
+    * Mixture of agents architecture with each agent responsible for retrieving some type of information from an index.
+    * Private models exist for generating document embeddings and a GPT system exists for synthesizing text.
+    * Can ask questions about CEOS through an interactive chat-interface.
+    * Improvements are regularly benchmarked and evaluated. Improvements are either heuristic improvements to RAG, or improvements of the core large language models (i.e., fine-tuning embedders or the GPT language model).
+
+Our team explores two approaches for constructing generative systems: (a) AI heuristic-driven, and (b) machine learning-driven. Both approaches improve the quality of the generative system and take a substantial amount of research and experimentation. In the heuristic-driven approach, LLMs are treated as abstracted black boxes. Heuristic structures index and organize the data leveraging the LLMs as tools to aid in search index building, information retrieval and response synthesis.  Systems that utilize heuristics would use algorithmic structures built on a large language model. These systems do not aim to modify or optimize an underlying machine learning models, they just utilize them as building blocks for a larger system. The machine learning approach on the other hand, focuses on innovations in the underlying architectures of the models themselves rather than the generative system that's built on them.  The machine learning approach would also encompass setting up the feedback mechanism whereby a model can be fine-tuned to user queries.
+
+The CEOS SEO is planning to mature these early-stage research applications and ultimately release them as tools for the CEOS community.
+
+
+## 4.2. NASA (ESDIS, IMPACT)
 NASA's Earth Science Division programs are investing in specific areas of AI/ML with specific strategies at the Earth Science Division level to avoid duplication of effort.  
 
 We outline five NASA organizations and their five major goals for AI/ML below,
@@ -49,7 +70,7 @@ Advancing an Open-Access Repository for Earth Observation Training Data and Mach
 - [Spatio-Temporal Machine Learning and Cloud Computing for Predicting Dynamics of Global Vegetation Structure from Active Satellite Sensors](https://www.earthdata.nasa.gov/esds/competitive-programs/access/ml-vegetation-structure)
 - [Training Data for Streamflow Estimation](https://www.earthdata.nasa.gov/esds/competitive-programs/access/streamflow-estimation)
 
-## 4.2. NOAA/NCAI (Rob Redmon,Douglas Rao)
+## 4.3. NOAA/NCAI (Rob Redmon,Douglas Rao)
 NOAA has a long history using AI, including machine learning (ML) to support its mission areas, such as deep-sea exploration, habitat characterization, fishery species assessments, environmental modeling, and interpretation of Earth observations. In 2021, NOAA released its first AI Strategy with five goals:
 
 1. Establish an efficient organizational structure and processes to advance AI across NOAA.
@@ -71,7 +92,7 @@ At its current stage, the AI-readiness assessment requires data experts to go th
 
 Additionally, NOAA has invested in the improvement of selected datasets for AI applications, such as, [Tropical Cyclone PRecipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED)](https://rammb-data.cira.colostate.edu/tcprimed/), NOAA Climate Data Records, and [water column sonar data.](https://www.ncei.noaa.gov/products/water-column-sonar-data) 
 
-## 4.3 Indian Space Research Organization (ISRO)
+## 4.4. Indian Space Research Organization (ISRO)
 
 The Indian Space Research Organisation (ISRO) has increasingly incorporated Artificial Intelligence (AI) in various facets of Earth observation data processing, marking a transformative shift in data processing technology. AI is playing a pivotal role in automating and enhancing the efficiency of data analysis, enabling ISRO to glean valuable insights from the vast amounts of information gathered by Earth observation satellites. 
 ISRO’s work in the field of AI can be categorized in three broad domains - Data acquisition related processing, data processing/fusion/augmentation and information extraction. Some key representative tasks in each category, that are being addressed through the use of AI, are shown in Figure X. Machine learning algorithms, particularly deep learning models, are being utilized to surpass the classical approaches in each of these domains to improve the overall impact of the Earth observation data collected and processed at ISRO.
@@ -88,7 +109,7 @@ The work related to this aspect is integrated via research and development relat
 
 ISRO is also working towards a common framework, where the work related to AI that is taking place across different teams and projects can be synergized. In this direction, some standards have been studied and are planned to be implemented in near future. Some of these models are now being integrated into publicly available web-platforms.
 
-## 4.4 European Space Agency Φ-lab
+## 4.5. European Space Agency Φ-lab
 
 <p align="center">
   <img src="figures/Philab-Foresight.png" alt="Sublime's custom image"/>
