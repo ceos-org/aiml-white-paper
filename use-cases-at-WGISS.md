@@ -27,8 +27,8 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 - Data Indexing:Date and time of data point added for time series analysis?
 - Data Labeling:automated by Python Program
 - Data preprocessing: 
-- Speckle noise reduction by MedianFilter
-- Normalized to 25m => 30m resolution to match resolution with training data
+  - Speckle noise reduction by MedianFilter
+  - Normalized to 25m => 30m resolution to match resolution with training data
 - Feature engineering: Creation of training data for drought
 - Data verification: NA
 - Data splitting: 50/50 percent testing/training,
@@ -57,8 +57,8 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 - Data Indexing: Horizontal and vertical polarized brightness temperatures at 19, 23, 36 and 89 GHz, their polarization and gradient ratios, and thin ice thickness. 
 - Data Labeling: For the MODIS thin ice thickness dataset, cloud-covered pixels are manually excluded by using QGIS.
 - Data preprocessing: 
-- Detected sea-ice area using AMSR-E sea ice concentration data.
-- Applied a resolution enhancement method.
+  - Detected sea-ice area using AMSR-E sea ice concentration data.
+  - Applied a resolution enhancement method.
 - Feature engineering: Calculated polarization and gradient ratios.
 - Data verification:  
 - Data splitting: 30/70 percent testing/training
@@ -88,7 +88,7 @@ This section indicates use cases of machine learning and AI conducted by CEOS/WG
 - Data Indexing: Date and time, lat/lon
 - Data Labeling: Automated by Python Program
 - Data preprocessing: 
-- Divided into 5 regions to process in parallel. 
+  - Divided into 5 regions to process in parallel. 
 - Feature engineering: Bias correction with downscaling 
 - Data verification:  
 - Data splitting: 2007-2019 data for training, 2020 data for testing
