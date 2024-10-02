@@ -4,6 +4,8 @@
 # 5. Usage methods of machine learning and AI for Earth observation
 There are a wide range of standard machine learning approaches which are commonly applied to domains such as Computer Vision. In this section we will outline the common machine learning approaches taken, and provide examples of how these approaches can be applied to Earth Observation data. This will provide an overview of the machine learning terminology, suitable applications of a given approach to EO, but is not complete nor exclusive. 
 
+![Thrust area of AI for EO](figures/Thrust-areas-of-AI-for-EO.png)
+
 ## 1) Classification
 In machine learning, classification is the process of categorizing or classifying input data into predefined discrete classes or categories. The goal of classification is to develop models or algorithms that can learn from historical data and make predictions about the class labels of new, unseen data points. The classification output is a predicted label, and sometimes a confidence or percentage allocation to each of the given classes. A typical example of classification in Earth Observation is land cover mapping, where each individual pixel is treated independently and provided with a classification for a given land cover type.. For evaluation purposes, classification can typically be evaluated using a confusion matrix [Confusion Matrix Example] or with an overall class accuracy, though the accuracy depends highly on having an even distribution of each class label. [SECTION ON UNBALANCED DATASETS?]
 
