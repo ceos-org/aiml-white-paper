@@ -7,7 +7,7 @@
 I have to write some introduction about several initiatives and programs for AI and ML.
 It might be a shortcut in some cases/students. Because those activities have all information such as data, use cases, platforms and tools.
 **
-# 4.1. CEOS/SEO (EO-GPT & CEOS-GPT)
+## 4.1. CEOS/SEO (EO-GPT & CEOS-GPT)
 
 The CEOS Systems Engineering Office provides leadership and support to CEOS through management and technical services and by developing tools and methods for societal benefit. The CEOS SEO also provides innovation and thought leadership in the area of AI/ML applied to the use of Earth Observation (EO) data. The CEOS SEO is working on two early-stage research projects which serve as frameworks for experimenting with modern LLM/AI research and tooling: 1. EO-GPT and 2. CEOS-GPT.
 
@@ -153,5 +153,38 @@ numerous `datasets` (e.g., [WorldStrat](https://worldstrat.github.io/), [Seeing 
 
 The [Invest Office](https://philab.esa.int/invest/) promotes commercial initiatives through the [InCubed](https://incubed.esa.int/) (Investing in Industrial Innovation) program. InCubed is a Public Private Partnership co-funding program run by the ESA Φ-lab Invest Office, focusing on developing innovative and commercially viable products and services that exploit the value of EO imagery and datasets. The program's broad scope supports everything from building satellites to developing new EO business models. Today, the majority of proposals for downstream activities are AI-related and focus on agriculture, forestry, emergency response, insurance, maritime, carbon monitoring, and asset management and identification. Instead, for upstream activities, it is trendy to bring AI-processing capabilities at-the-edge to address the data downlink bottleneck and reduce data latency for value maximisation.
 The InCubed programme size is about 225m€ and has 140 activities in pipeline with about 10 satellites constellations under development.
+
+## 4.6 UKSA Initiative in AI and ML for Earth Observation
+
+The UKSA recognizes the importance of collaboration and synergy among various organizations and initiatives within the UK's Earth Observation ecosystem. In this regard, the UKSA has established strong partnerships with the UK National Center for Earth Observation (NCEO) and the NERC Earth Observation Data Analysis and AI Service (NEODAAS)
+Artificial Intelligence (AI) is at the heart of the UK Government’s plan to kickstart an era of economic growth, transform how to deliver public services and boost living standards for working people across the country. They will be ensuring that AI is used to drive the government’s missions and priorities including across healthcare, the economy and society. They are committed to building an AI sector that can scale and win globally, through the AI Opportunities Action Plan. It will outline an approach to delivering the opportunities AI can bring across the system, setting out UK governmentambition. AI will also form a part of the UK government's in development Industrial Strategy, which will set out to drive the UK’s direction of travel in important industries.
+
+NCEO is a world-leading center of excellence in Earth Observation (EO) science and technology, bringing together a network of leading universities and research institutions. The UKSA actively engages with the NCEO to leverage its expertise and capabilities in areas such as satellite data processing, scientific algorithm development, and the application of advanced analytical techniques, including AI and ML.
+Through joint research projects and technology development initiatives, the UKSA and the NCEO work together to address critical challenges in Earth Observation. This collaboration aims to accelerate the translation of scientific advancements into practical applications and operational services that can benefit society, the economy, and the environment.
+The UKSA work with NCEO and NEODAAS to develop the UK’s AI and Earth Observation Capacities. NEODAAS hosts the Massive GPU Cluster for Earth Observation (MAGEO) and provides EO Data, AI support and development to UK based researchers working on a range of EO focused domains. This has resulted in numerous successful projects applying advanced ML techniques to EO data.
+
+### Key Contributions of UKSA and NCEO
+
+- Data Processing and Analysis: One of the primary focuses of the UKSA initiative is to improve the processing of EO data. By leveraging AI and ML, NCEO has developed advanced algorithms that can analyze large datasets more quickly and accurately than traditional methods. This is particularly important for time-sensitive applications, such as monitoring natural disasters or tracking climate change impacts.
+- Harmonization and Fusion of Data: The integration of AI and ML has also facilitated the harmonization and fusion of different types of EO data. This means that data from various sources, such as multispectral and hyperspectral sensors, can be combined to provide a more comprehensive view of the Earth's surface. The NCEO has been instrumental in demonstrating how AI can enhance the understanding of land use and land cover (LULC) changes, which is crucial for effective environmental management.
+- Development of Analysis Ready Data (ARD): The initiative has focused on creating Analysis Ready Data (ARD) products that are pre-processed and ready for analysis. For instance, the Sentinel-2 satellite data undergoes atmospheric correction using the Sen2Cor algorithm, which is a proprietary method that ensures the data is suitable for further analysis. This preprocessing step is vital for ensuring the accuracy of AI and ML applications in Earth observation.
+- Applications in Agriculture: AI and ML applications in agriculture have been a significant area of focus. The NCEO has worked on projects that utilize satellite data to monitor crop health, predict yields, and assess the impact of climate variability on agricultural practices. By employing AI techniques, the NCEO can provide farmers and policymakers with actionable insights that can lead to better decision-making and resource management.
+- Super-resolution Techniques: Another innovative approach being explored is the use of super-resolution techniques to enhance the spatial resolution of satellite images. This is particularly beneficial for applications that require detailed imagery, such as urban planning and environmental monitoring. The NCEO is investigating how AI can be used to improve the quality of satellite images, making them more useful for various applications.
+
+### JASMIN support for AI: ORCHID
+
+The JASMIN platform, managed by the STFC Centre for Environmental Data Analysis (CEDA), has traditionally supported a diverse range of environmental science users, including EO and climate archives alongside large-scale batch computing clusters, a JupyterHub service and private cloud infrastructure. JASMIN now includes a GPU cluster, known as ORCHID, which is tailored towards the needs of AI and ML workflows. A range of different scientific use cases are managed on ORCHID, and additional resources are being tapped to expand the AI-on-JASMIN community.
+
+### Future Directions
+
+The collaboration between UKSA and NCEO is set to expand further, with ongoing research into new AI and ML methodologies that can enhance Earth observation capabilities. The focus will likely include:
+- Increased Accessibility of Data: Efforts to make Earth observation data more accessible to researchers, policymakers, and the public will continue. This includes developing user-friendly platforms that allow for easy access and analysis of satellite data.
+- Interdisciplinary Research: The initiative will promote interdisciplinary research that combines Earth observation with other fields, such as social sciences and economics, to address complex global challenges like climate change and food security.
+- Capacity Building: Training and capacity building will be essential to ensure that stakeholders can effectively utilize AI and ML tools in their work. This includes workshops, online courses, and collaborative projects that foster knowledge sharing.
+- Interoperability and Platform Integration: With the new Isambard-AI supercomputer coming online soon, NEODASS and CEDA will reach out to the University of Bristol to optimize the integration between their AI analysis platforms.
+
+In conclusion, the UKSA initiative, in collaboration with NCEO, is making significant strides in utilizing AI and ML for Earth observation. Through innovative data processing, harmonization, and application development, they are enhancing our understanding of the Earth and its systems, ultimately contributing to better environmental management and policy-making.
+
+
 ***
 [Previous](standards.md) | [Table of contents](README.md) | [Next](usage-methods-of-ml-and-ai-for-eo.md)
