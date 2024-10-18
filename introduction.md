@@ -30,6 +30,7 @@ The team members are listed below
   - David Moffat
   - Diane Knappett
   - Maral Bayaraa
+  - Rebecca Corey
 - NOAA
   - Rob Redmon
   - Yuhan “Douglas” Rao
