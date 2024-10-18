@@ -28,6 +28,7 @@ The team members are listed below
   - Rustem Albayrak
 - UKSA
   - David Moffat
+  - Rebecca Corey
   - Diane Knappett
   - Maral Bayaraa
 - NOAA
