@@ -6,7 +6,7 @@ The term **remote sensing** refers to the fact that we can observe properties of
    
 Electromagnetic waves have an almost unlimited range of wavelengths, called the **Electromagnetic Spectrum** , stretching from atomic to galactic dimensions, part of which is shown in **Figure 2.1-1**. Depending on their wavelength they interact with physical phenomena such as matter at very different scales. Of practical use in remote sensing are wavelengths ranging from some tenth of a micrometre (10\-6m) revealing molecular structure and micro-particles, up to several meters reacting to macroscopic properties like object’s surface roughness or dielectric properties (water content).
 
- ![Electromagnetic spectrum as measured in micrometers](Figure2.1-1.png)
+ ![Electromagnetic spectrum as measured in micrometers](/figures/Figure2.1-1.png)
 **Figure 2.1-1**: Electromagnetic spectrum as measured in micrometers. Visible wavelengths (lower bar) are in nanometres. Passive optical satellite instruments measure light in the Visible to Infrared parts which arrives either as reflected sun-light or thermally emitted. In contrast, Synthetic Aperture Radar satellites are active , they generate and detect their own signal in the Microwave region. Source : [CTAHR](https://www.ctahr.hawaii.edu/miuralab/projects/makaha/intro_rs.html). 
 
 
@@ -16,7 +16,7 @@ In the **spatial dimension** sensors can measure just a single sample, generate 
    
 In EO spatial resolution can range from centimeters to kilometers and is often divided into classes from ‘very high’ (VHR), to ‘high’ (HR), ‘moderate’ (MR), and ’low’ (LR) without internationally applied norms. A relatively detailed and widely used resolution scale is the one used in the Copernicus programme, displayed in **Figure 2.1-2.**  
    
- ![A common scale to categorise the spatial resolution of EO sensors in the range from below 1m to beyond 300m](Figure2.1-2.png)  
+ ![A common scale to categorise the spatial resolution of EO sensors in the range from below 1m to beyond 300m](/figures/Figure2.1-2.png)  
 **Figure 2.1-2**: A common scale to categorise the spatial resolution of EO sensors in the range from below 1m to beyond 300m. Source: [ESA](https://www.esa.int/ESA_Multimedia/Images/2021/09/Data_resolution_classes_within_the_Copernicus_programme).  
    
 Equally important is the **spectral dimension**, i.e. which part of the electromagnetic spectrum, often called **band** or **channel**, a sensor is sampling and whether it works only with a single band or multiple such bands. Especially in the optical range most sensors are not working with just a single band (‘monospectral’ or ‘monochromatic’), but with a multitude of bands according to which they are called either **multispectral** (‘multiband’) for a few to tens of bands or **hyperspectral** if the number of bands exceeds roughly a hundred. If the bands are spectrally continuous one would also speak of a **(imaging) spectrometer**. The width and distance of the individual spectral band passes also determines the **spectral resolution** of the sensor.  
@@ -27,7 +27,7 @@ Finally, in the **temporal dimension**, as most observations need to be done rep
 
 The relationship between the spatial resolution and the temporal resolution is plotted for selected satellite missions in Figure 2.1-3.
 
-![Revisit period vs. spatial resolution of selected optical and SAR satellite missions](Figure2.1-3.png)  
+![Revisit period vs. spatial resolution of selected optical and SAR satellite missions](/figures/Figure2.1-3.png)  
 **Figure 2.1-3**: Revisit period vs. spatial resolution of selected optical and SAR satellite missions.  Source: [Kalatzis et al. (2022)](https://sa.catapult.org.uk/digital-library/white-paper-state-of-ai-for-earth-observation/)  © Satellite Applications Catapult. 
 
    
