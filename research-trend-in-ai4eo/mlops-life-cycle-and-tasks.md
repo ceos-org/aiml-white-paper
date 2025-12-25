@@ -14,6 +14,8 @@ However AI/ML applications are inherently more complex than traditional software
 ![MLOps lifecycle example source](/figures/Figure3.4.2-1.png)  
 Figure-3.4.2-1 MLOps lifecycle example source: NVIDIA\[[140](#bookmark=id.51741said17w)\]
 
+### 3.4.2. Life cycle
+
 MLOps is a concept as a workflow, and there is no common standardized definition.  
 Key Points and relevant remote sensing tasks are shown in Table 3.4.2-1.
 
