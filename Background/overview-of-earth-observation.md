@@ -1,3 +1,7 @@
+[Previous](README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
+
+***
+
 ## 2.1. Overview of Earth Observation[^3]
 
 **Observation** is the process through which mankind is able to collect factual data about their physical surroundings. While **Earth Observation** per se comprises any observation that targets the Earth and anything in on or around it, the most prominent of its sub-domains is probably ‘remote sensing’, of which a significant part is carried out using satellites.  Satellite EO can be thought of as a modern day [‘macroscope’](https://en.wikipedia.org/wiki/Macroscope_\(science_concept\)). Whilst traditional microscopes enabled us to study our world at the micro scale, satellite EO is enabling a global-scale view of the Earth and its processes.  
@@ -57,3 +61,7 @@ The interferogram between two SAR images contains information on the phase diffe
 
 
 [^3]: Content modified and adapted with permission from the [Satellite Applications Catapult Whitepaper by Kalaitzis et al. (2022) : State of AI for Earth Observation.](https://sa.catapult.org.uk/digital-library/white-paper-state-of-ai-for-earth-observation/)
+
+***
+
+[Previous](README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
