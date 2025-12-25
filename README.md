@@ -1,4 +1,4 @@
-[Next](introduction.md)
+[Next](introduction/README.md)
 
 ***
 # CEOS ML/DL/AI White Paper 
@@ -151,4 +151,4 @@ Issue: Version 1.0
 
 
 ***
-[Next](introduction.md)
+[Next](introduction/README.md)
