@@ -1,4 +1,4 @@
-[Previous](/README.md) | [Table of contents](/README.md) | [Next](Background/README.md)
+[Previous](/README.md) | [Table of contents](/README.md) | [Next](/Background/README.md)
 
 ***
 # 1\. Introduction
@@ -84,4 +84,4 @@ UKSA 			Maral Bayaraa (Satellite Applications Catapult)
   - Kosuke Yamamoto
 
 ***
-[Previous](/README.md) | [Table of contents](/README.md) | [Next](Background/README.md)
+[Previous](/README.md) | [Table of contents](/README.md) | [Next](/Background/README.md)
