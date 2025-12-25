@@ -1,4 +1,4 @@
-[Previous](the-future-of-ai4eo-research.md) | [Table of contents](/README.md) | [Next](ai-ml-tasks-and-use-cases.md)
+[Previous](the-future-of-ai4eo-research.md) | [Table of contents](/README.md) | [Next](aiml-tasks-and-use-cases.md)
 
 ***
 ## 3.4. MLOps Life cycle and tasks
@@ -32,4 +32,4 @@ Table 3.4.2-1 MLOps stages and tasks
 
 ***
 
-[Previous](the-future-of-ai4eo-research.md) | [Table of contents](/README.md) | [Next](ai-ml-tasks-and-use-cases.md)
+[Previous](the-future-of-ai4eo-research.md) | [Table of contents](/README.md) | [Next](aiml-tasks-and-use-cases.md)
