@@ -42,4 +42,4 @@ The current state of model interoperability in geospatial AI remains highly frag
 
 ***
 
-[Previous](/data-and-platforms/README.md) | [Table of contents](/README.md) | [Next](conclusion-and-future-outlook.md)
+[Previous](/data-and-platforms/README.md) | [Table of contents](/README.md) | [Next](/conclusion-and-future-outlook.md)
