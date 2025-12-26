@@ -50,7 +50,7 @@ Issue: Version 1.0
   - [8.2. Computational demands for large-scale analysis](/challenges-and-limitations-of-ai4eo#82-computational-demands-for-large-scale-analysis)
   - [8.3. Model interoperability & trustworthiness](/challenges-and-limitations-of-ai4eo#83-model-interoperability--trustworthiness)
 - [**9\. Conclusion and Future outlook.	76**](/conclusion-and-future-outlook.md)
-- [**Appendix A. Glossary](/Appendix/appendix-a-glossary.md)
+- [**Appendix A. Glossary**](/Appendix/appendix-a-glossary.md)
 - [**Appendix B Related Standards and Principles**](/Appendix/appendix-b-related-standards-and-principles.md)
 - [**Appendix C. Templates for use case**](/Appendix/appendix-c-templates-for-use-case)
 - [**Appendix D. AI Ready data checklist**](/Appendix/appendix-d-ai-ready-data-checklist.md)
