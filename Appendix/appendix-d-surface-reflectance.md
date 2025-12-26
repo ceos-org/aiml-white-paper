@@ -1,4 +1,4 @@
-## Appendix C. [Surface Reflectance (Optical)](https://github.com/ceos-org/ceos-ard/blob/main/Specifications/Surface-Reflectance/README.md)
+## Appendix D. [Surface Reflectance (Optical)](https://github.com/ceos-org/ceos-ard/blob/main/Specifications/Surface-Reflectance/README.md)
 
 ### Data Preparation
 
