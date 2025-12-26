@@ -1,4 +1,4 @@
-## Appendix C. [Nighttime Lights Surface Radiance (Optical)](https://github.com/ceos-org/ceos-ard/blob/main/Specifications/Nighttime-Lights-Surface-Radiance/README.md)
+## Appendix D. [Nighttime Lights Surface Radiance (Optical)](https://github.com/ceos-org/ceos-ard/blob/main/Specifications/Nighttime-Lights-Surface-Radiance/README.md)
 
 ### Data Preparation
 
