@@ -2,6 +2,11 @@
 
 The following is a general template. It should be noted that it might need updates, additions etc., depending on the use case in hand. For example in the case of transfer learning flow might need to be adjusted accordingly. 
 
+- [Climate](appendix-c-climate.md)
+- [Disaster](appendix-c-disasters.md)
+- [Marine Monitoring](appendix-c-marine-monitoring.md)
+- [Weather](appendix-c-weather.md)
+
 Note: Following template is summarized from the ITU Data report\[[153](/references.md#ref.153)\]. This report needs to be included in the references. 
 
 **Use case Example:**
