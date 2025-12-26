@@ -1,4 +1,4 @@
-[Previous](mlops-life-cycle-and-tasks.md) | [Table of contents](/README.md) | [Next](programs-and-initiatives/README.md)
+[Previous](mlops-life-cycle-and-tasks.md) | [Table of contents](/README.md) | [Next](/programs-and-initiatives/README.md)
 
 ***
 
@@ -24,4 +24,4 @@ Table 3.5-1 AI/ML tasks and use cases
 
 ***
 
-[Previous](mlops-life-cycle-and-tasks.md) | [Table of contents](/README.md) | [Next](programs-and-initiatives/README.md)
+[Previous](mlops-life-cycle-and-tasks.md) | [Table of contents](/README.md) | [Next](/programs-and-initiatives/README.md)
