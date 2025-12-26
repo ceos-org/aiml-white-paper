@@ -1,3 +1,6 @@
+
+# Appendix A. Glossary
+
 The Glossary is adopted from [State of AI for Earth Observation](https://sa.catapult.org.uk/digital-library/white-paper-state-of-ai-for-earth-observation/).
 
 | Active (sensor) | A sensor—like lidar, SAR—that emits its own EM pulses and perceives the properties of remote objects as alterations in the backscatter. See also, passive. |
