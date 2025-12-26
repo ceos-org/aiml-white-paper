@@ -1,4 +1,4 @@
-[Previous](/Background/README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
+[Previous](/Background/overview-of-earth-observation.md) | [Table of contents](/README.md) | [Next](/research-trend-in-ai4eo/README.md)
 
 ***
 
@@ -58,4 +58,4 @@ SSL allows us to leverage as much unlabelled data as we can store, to learn ‘j
 
 *** 
 
-[Previous](/Background/README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
+[Previous](/Background/overview-of-earth-observation.md) | [Table of contents](/README.md) | [Next](/research-trend-in-ai4eo/README.md)
