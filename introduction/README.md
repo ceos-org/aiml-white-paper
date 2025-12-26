@@ -83,5 +83,8 @@ UKSA 			Maral Bayaraa (Satellite Applications Catapult)
   - Kazuki Nakata
   - Kosuke Yamamoto
 
+[^1]: First civilian EO satellite Landsat-1 launched in 1972. https://landsat.gsfc.nasa.gov/satellites/landsat-1/
+[^2]: https://www.bbc.com/news/science-environment-48547803 
+
 ***
 [Previous](/README.md) | [Table of contents](/README.md) | [Next](/Background/README.md)
