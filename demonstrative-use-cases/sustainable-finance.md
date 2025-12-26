@@ -1,4 +1,4 @@
-[Previous](precipitation.md) | [Table of contents](/README.md) | [Next](hot-topics_new-topics/README.md)
+[Previous](precipitation.md) | [Table of contents](/README.md) | [Next](/hot-topics_new-topics/README.md)
 
 ***
 
@@ -19,4 +19,4 @@ Figure 5.6-1: Use of deep learning and satellite data for characterising global 
 
 ***
 
-[Previous](precipitation.md) | [Table of contents](/README.md) | [Next](hot-topics_new-topics.md)
+[Previous](precipitation.md) | [Table of contents](/README.md) | [Next](/hot-topics_new-topics/README.md)
