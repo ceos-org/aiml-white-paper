@@ -1,5 +1,5 @@
 
-## [Aquatic Reflectance (Optical)](https://github.com/ceos-org/ceos-ard/blob/main/Specifications/Aquatic-Reflectance/README.md)
+## Appendix D. [Aquatic Reflectance (Optical)](https://github.com/ceos-org/ceos-ard/blob/main/Specifications/Aquatic-Reflectance/README.md)
 
 ### Data Preparation
 
