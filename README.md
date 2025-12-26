@@ -5,7 +5,7 @@
 
 Tech Expo Interest Group
 
-Doc. Ref.: CEOS/
+Doc. Ref.: CEOS/WGISS TEIG(Technology Exploration Interest Group)
 
 Date: Dec.  2025
 
