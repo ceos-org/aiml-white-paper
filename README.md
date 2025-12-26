@@ -52,7 +52,7 @@ Issue: Version 1.0
 - [**9\. Conclusion and Future outlook.	76**](/conclusion-and-future-outlook.md)
 - [**Appendix A. Glossary**](/Appendix/appendix-a-glossary.md)
 - [**Appendix B Related Standards and Principles**](/Appendix/appendix-b-related-standards-and-principles.md)
-- [**Appendix C. Templates for use case**](/Appendix/appendix-c-templates-for-use-case)
+- [**Appendix C. Templates for use case**](/Appendix/appendix-c-templates-for-use-case.md)
 - [**Appendix D. AI Ready data checklist**](/Appendix/appendix-d-ai-ready-data-checklist.md)
 - [**Reference**](/reference.md)
 
