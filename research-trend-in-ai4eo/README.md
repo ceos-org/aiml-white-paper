@@ -16,4 +16,4 @@
 
 
 ***
-[Previous](/introduction/README.md) | [Table of contents](/README.md) | [Next](overview-of-earth-observation.md)
+[Previous](/Background/core-ideas-in-deep-learning.md) | [Table of contents](/README.md) | [Next](research-trends-in-ai4eo.md)
