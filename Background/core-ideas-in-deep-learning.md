@@ -1,3 +1,7 @@
+[Previous](/Background/README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
+
+***
+
 ## 2.2. Core ideas in Deep Learning [^1]
 
 Machine Learning research is experiencing its biggest growth spurt in the history of the field. With groundbreaking ideas being published several times a year, how can one keep up with the field? The good news is that the useful set of foundational ideas is updated only every few years. Below, we describe a subset of those ideas at an intuitive level, and why they matter for EO.
@@ -51,3 +55,7 @@ SSL allows us to leverage as much unlabelled data as we can store, to learn ‘j
 **The role of ground-truth in unsupervised learning** — If there is one takeaway from the success stories of unsupervised learning, it is that an obsession with nailing the end-task alone misses the point of learning and can even hinder a model from reaching its full potential. On the other hand, regardless of the type of unsupervised learning being used, the importance of the availability of expertly annotated ground-truths cannot be overstated. Ultimately, a successful application of ML must be demonstrably predictive of the end-task. This means, ground-truth labels, whether acquired by manual annotation or from expensive bona-fide physics simulations, will always be in high demand. Even if they serve merely as a sanity check, or a unit-test.
 
 [^1]: Content modified and adapted with permission from the [Satellite Applications Catapult Whitepaper by Kalaitzis et al. (2022) : State of AI for Earth Observation.](https://sa.catapult.org.uk/digital-library/white-paper-state-of-ai-for-earth-observation/)
+
+*** 
+
+[Previous](/Background/README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
