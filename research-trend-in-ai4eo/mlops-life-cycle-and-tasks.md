@@ -9,10 +9,10 @@ Machine Learning Operations (MLOps) refers to the idea of best practice managing
 
 Originally, DevOps unified software development and operations through continuous integration and delivery (CI/CD), enabling teams to deploy software faster with fewer errors.
 
-However AI/ML applications are inherently more complex than traditional software. While most  traditional software is composed primarily of code, AI/ML systems consist of code \+ data \+ trained models. In addition, they require well-defined workflows and pipelines for data processing, model training, evaluation and deployment.   **MLOps** has emerged to bridge these gaps, adapting DevOps principles to the unique challenges of AI/ML, and ensuring that machine learning solutions are scalable, reliable, and sustainable in real-world operations.\[[139](#bookmark=id.14eftti04e8r), [140](#bookmark=id.51741said17w), [141](#bookmark=id.pnyoimp1tpeb), [142](#bookmark=id.y7a6o395dus5)\]
+However AI/ML applications are inherently more complex than traditional software. While most  traditional software is composed primarily of code, AI/ML systems consist of code \+ data \+ trained models. In addition, they require well-defined workflows and pipelines for data processing, model training, evaluation and deployment.   **MLOps** has emerged to bridge these gaps, adapting DevOps principles to the unique challenges of AI/ML, and ensuring that machine learning solutions are scalable, reliable, and sustainable in real-world operations.\[[139](/reference.md#ref.139), [140](/reference.md#ref.140), [141](/reference.md#ref.141), [142](/reference.md#ref.142)\]
 
 ![MLOps lifecycle example source](/figures/Figure3.4.2-1.png)  
-Figure-3.4.2-1 MLOps lifecycle example source: NVIDIA\[[140](#bookmark=id.51741said17w)\]
+Figure-3.4.2-1 MLOps lifecycle example source: NVIDIA\[[140](/reference.md#ref.140)\]
 
 ### 3.4.2. Life cycle
 
