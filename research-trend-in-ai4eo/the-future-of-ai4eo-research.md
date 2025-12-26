@@ -40,14 +40,16 @@ In section [**7.2. Data for AI/ML data interoperability**](#7.1.-data-for-ai/ml-
 
 ### 3.3.3. AI safety
 
-“Technology is an amplifier of human intent” \[[136](/reference.md#ref.136)\]. The point of this quote is not that technology is inherently neutral; it is not because tech cannot exist in isolation from civilization. Therefore, one would be amiss to think that AI will ‘do no evil’ **[^5]**. Bias is a key ingredient of our ability to learn, therefore AI systems too are inherently biassed. These vulnerabilities can be exploited to concentrate power, or to fool and attack AI-based infrastructure systems.
+“Technology is an amplifier of human intent” \[[136](/reference.md#ref.136)\]. The point of this quote is not that technology is inherently neutral; it is not because tech cannot exist in isolation from civilization. Therefore, one would be amiss to think that AI will ‘do no evil’ [^5]. Bias is a key ingredient of our ability to learn, therefore AI systems too are inherently biassed. These vulnerabilities can be exploited to concentrate power, or to fool and attack AI-based infrastructure systems.
 
 * **Robustness to adversarial inputs** — Our increasing reliance on EO data will eventually necessitate their safeguarding from malicious signals on the ground. This type of interference is a real concern for situational awareness applications involving InSAR \[[137](/reference.md#ref.137)\].
 
-* **Privacy and ethics** — Indigenous tribes in the Amazon rainforest; villages in rural parts of Darfur, Western Sudan; migrants fleeing violence —are all examples of vulnerable populations that can be compromised en masse through the wrong use of a data API. This problem is actually best addressed not by AI, but with the instilling of ethical practices in school and university curricula. That being said, AI can in fact help, through the systematic collection evidence for acts against humanity **[^6]**. But it can also help to deliberately obfuscate the sensitive information of such communities, like geolocation data and visual indicators of activity in rural regions.
+* **Privacy and ethics** — Indigenous tribes in the Amazon rainforest; villages in rural parts of Darfur, Western Sudan; migrants fleeing violence —are all examples of vulnerable populations that can be compromised en masse through the wrong use of a data API. This problem is actually best addressed not by AI, but with the instilling of ethical practices in school and university curricula. That being said, AI can in fact help, through the systematic collection evidence for acts against humanity [^6]. But it can also help to deliberately obfuscate the sensitive information of such communities, like geolocation data and visual indicators of activity in rural regions.
 
 * **Onboard-ML** can also play a role here, through the development of lightweight ML models that can be installed directly on the hardware of satellites, and help with the prefiltering of sensitive data, prior to transmitting them to the Earth \[[138](/reference.md#ref.138)\].
 
+[^5]: [Artificial intelligence is creating a new colonial world order | MIT Technology Review](https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/)
+[^6]: [Using AI to scale up human rights research: a case study on Darfur – Citizen Evidence Lab](https://citizenevidence.org/2020/07/06/using-artificial-intelligence-to-scale-up-human-rights-research-a-case-study-on-darfur/)
 
 ***
 
