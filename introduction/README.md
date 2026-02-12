@@ -24,7 +24,7 @@ This document has been developed by the members of the Technology Exploration In
 
 JAXA 			Yousuke Ikehata
 
-UK 			Maral Bayaraa (Satellite Applications Catapult)
+UK 			Maral Bayaraa (Satellite Applications Catapult representative of the UKSA)
 
 **Project Members**
 
