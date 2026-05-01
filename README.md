@@ -26,7 +26,7 @@ Issue: Version 1.0
   - [3.4. MLOps Life cycle and tasks](/research-trend-in-ai4eo/mlops-life-cycle-and-tasks.md)
   - [3.5. AI/ML Tasks and use cases](/research-trend-in-ai4eo/aiml-tasks-and-use-cases.md)
     
-- [**4\. Programs and Initiatives**](#4.0)
+- [**4\. Programs and Initiatives**](04_Programs_and_initiatives.md/#4.0)
   - [4.1. CEOS EO-GPT & CEOS-GPT)](#4.1)
   - [4.2. GEO](#4.2)
   - [4.3. NASA (ESDIS, IMPACT)](#4.3)
