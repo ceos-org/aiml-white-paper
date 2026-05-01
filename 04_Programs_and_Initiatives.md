@@ -1,6 +1,12 @@
 [Previous](/research-trend-in-ai4eo/aiml-tasks-and-use-cases.md) | [Table of contents](/README.md) | [Next](ceos-seo.md)
 
+  
 ***
+
+# 4\. Programs and Initiatives<a id='4.0'></a> 
+
+The global space agencies that make up CEOS have launched several AI initiatives and programs. This section provides an overview of those efforts.
+
 - [**4\. Programs and Initiatives**](#4.0)
   - [4.1. CEOS EO-GPT & CEOS-GPT)](#4.1)
   - [4.2. GEO](#4.2)
@@ -8,14 +14,7 @@
   - [4.4. NOAA/NCAI](#4.4)
   - [4.5. Indian Space Research Organization (ISRO)](#4.5)
   - [4.6. European Space Agency φ-lab](#4.6)
-  - [4.7. UKSA Initiative in AI and ML for Earth Observation](#4.7)
-    
-***
-
-# 4\. Programs and Initiatives<a id='4.0'></a> 
-
-The global space agencies that make up CEOS have launched several AI initiatives and programs. This section provides an overview of those efforts.
-    
+  - [4.7. UKSA Initiative in AI and ML for Earth Observation](#4.7)    
 ***
 
 ## 4.1. CEOS SEO<a id='4.1'></a> 
