@@ -9,7 +9,7 @@ The rate of progress in AI4EO is primarily driven by advances in hardware and se
 ***
 
 
-## 3.1. Venues of cross-disciplinary research
+## 3.1. Venues of cross-disciplinary research<a id='3.1'></a> 
 
 The following is a brief overview on top-tier academic conferences, for the readers who are interested in staying up to date with the SOTA in ML. Key journal publications include: JMLR\[[2](/reference.md#ref.2)\], TPAMI \[[3](/reference.md#ref.3)\], FTML\[[4](/reference.md#ref.4)\], TMLR\[[5](/reference.md#ref.5)\]. Key conferences include: NeurIPS \[[6](/reference.md#ref.6)\], ICML, ICLR\[[7](/reference.md#ref.7)\], CVPR\[[8](/reference.md#ref.8)\], AAAI\[[9](/reference.md#ref.9)\], AISTATS\[[10](/reference.md#ref.10)\]. Aside from the main proceedings, each conference also hosts satellite academic workshop events catered to researchers working in specific basic and applied research domains. In the context of AI4EO, the following AI4EO workshops are staples in most annual iterations of the aforementioned conferences: EarthVision\[[11](/reference.md#ref.11)\], AI4Earth\[[12](/reference.md#ref.12)\], MLPS\[[13](/reference.md#ref.13)\], CCAI\[[14](/reference.md#ref.14)\]. Because of their interdisciplinary nature, some of these events are supported by IEEE technical committees which also host their own conferences, like IGARSS\[[15](/reference.md#ref.15)\].
 
@@ -24,7 +24,7 @@ Note that at step 1 of this workflow the new ML methods are not benchmarked on E
 
 ***
 
-## 3.2. From sensing to applications
+## 3.2. From sensing to applications<a id='3.2'></a> 
 
 **Table 3.2-1** provides a detailed breakdown of most of the work in AI4EO in various verticals. Here are the main takeaways:
 
@@ -64,7 +64,7 @@ Note that at step 1 of this workflow the new ML methods are not benchmarked on E
 
 ***
 
-## 3.3. The future of AI4EO research
+## 3.3. The future of AI4EO research<a id='3.3'></a> 
 
 The following is a curated but not comprehensive list of promising research directions, aimed at prospective researchers about to enter the field of AI4EO.
 
@@ -116,7 +116,7 @@ In section [**7.2. Data for AI/ML data interoperability**](#7.1.-data-for-ai/ml-
 ***
 
 ***
-## 3.4. MLOps Life cycle and tasks
+## 3.4. MLOps Life cycle and tasks<a id='3.4'></a> 
 
 ### 3.4.1. Background for MLOps life cycle
 
@@ -148,9 +148,9 @@ Table 3.4.2-1 MLOps stages and tasks
 
 
 ***
-***
 
-## 3.5. AI/ML Tasks and use cases
+
+## 3.5. AI/ML Tasks and use cases<a id='3.5'></a> 
 
 The table introduces common AI/ML tasks and the representative models used for them.
 
