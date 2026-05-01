@@ -1,19 +1,20 @@
 [Previous](/research-trend-in-ai4eo/aiml-tasks-and-use-cases.md) | [Table of contents](/README.md) | [Next](ceos-seo.md)
 
 ***
+- [**4\. Programs and Initiatives**](#4.0)
+  - [4.1. CEOS EO-GPT & CEOS-GPT)](#4.1)
+  - [4.2. GEO](#4.2)
+  - [4.3. NASA (ESDIS, IMPACT)](#4.3)
+  - [4.4. NOAA/NCAI](#4.4)
+  - [4.5. Indian Space Research Organization (ISRO)](#4.5)
+  - [4.6. European Space Agency φ-lab](#4.6)
+  - [4.7. UKSA Initiative in AI and ML for Earth Observation](#4.7)
+    
+***
 
-# 4\. Programs and Initiatives
+# 4\. Programs and Initiatives<a id='4.0'></a> 
 
 The global space agencies that make up CEOS have launched several AI initiatives and programs. This section provides an overview of those efforts.
-
-- [**4\. Programs and Initiatives**]
-  - [4.1. CEOS EO-GPT & CEOS-GPT)](#4.1)
-  - [4.2. GEO]
-  - [4.3. NASA (ESDIS, IMPACT)]
-  - [4.4. NOAA/NCAI]
-  - [4.5. Indian Space Research Organization (ISRO)]
-  - [4.6. European Space Agency φ-lab]
-  - [4.7. UKSA Initiative in AI and ML for Earth Observation]
     
 ***
 
@@ -46,7 +47,7 @@ The CEOS SEO plans to further develop  these early-stage research applications a
 
 ***
 
-## 4.2. GEO
+## 4.2. GEO<a id='4.2'></a> 
 
 **Overview**
 
@@ -92,7 +93,7 @@ The testing phase utilizes [Harmonized Landsat and Sentinel-2](https://hls.gsfc.
 [Digital Earth Africa (DE Africa)](https://digitalearthafrica.org/en_za/) is an African program that provides access to and capacity development in EO technology for the African continent, with the aim of enhancing the application and uptake of EO in African countries. DE Africa supports climate action in particular through data and analytics addressing food and water security, nature based solutions, ecosystem management, land degradation and coastline change. ARD, such as annual surface reflectance geomedian images derived from Landsat and Sentinel missions, are provided to users alongside examples and guidance on how to incorporate them into ML workflows, such as land use classification, while a selection of DE Africa’s Continental Services (continental scale thematic products) are derived from ML applied to ARD. For example, the DE Africa Cropland Extent map was produced with ML applied to [Sentinel-2 GeoMADs](https://digitalearthafrica.org/en_za/geomad/) as input data. In this way, ARD provided by DE Africa can also be considered as ML-ready. Digital Earth Africa therefore produces and supports user creation of end-to-end ML workflows based on satellite-derived EO data.
 
 ***
-## 4.3. NASA
+## 4.3. NASA<a id='4.3'></a> 
 
 **Overview**
 
@@ -141,7 +142,7 @@ Recent ACCESS projects highlight how NASA is applying AI/ML to Earth observation
 * [Training Data for Streamflow Estimation](https://www.earthdata.nasa.gov/esds/competitive-programs/access/streamflow-estimation)
 
 ***
-## 4.4. NOAA
+## 4.4. NOAA<a id='4.4'></a> 
 
 **Overview**
 
@@ -173,7 +174,7 @@ Additionally, NOAA is actively seeking public-private partnership to enhance the
 
 ***
 
-## 4.5. ISRO
+## 4.5. ISRO<a id='4.5'></a> 
 
 **Overview**
 
@@ -197,7 +198,7 @@ The work related to this aspect is integrated via research and development relat
 ISRO is also working towards a common framework, where the work related to AI that is taking place across different teams and projects can be synergized. In this direction, some standards have been studied and are planned to be implemented in near future. Some of these models are now being integrated into publicly available web-platforms.
 
 ***
-## 4.6. European Space Agency φ-lab
+## 4.6. European Space Agency φ-lab<a id='4.6'></a> 
 
 **Overview**   
 The ESA Φ-lab is the ESA Earth Observation innovation laboratory that aims to accelerate the future of Earth Observation (EO) via transformative innovation and commercialisation actions, thereby strengthening Europe’s global competitiveness. Artificial Intelligence (AI) is a core focus areas for the ESA Φ-lab, as it offers unprecedented capabilities to extract actionable insights from vast amounts of EO data,  enabling novel applications and business models. The ESA Φ-lab covers the whole spectrum of AI development, from ideation to generating tangible impacts in science, technology, or commercial field through its two offices: the **Explore Office** and the **Invest Office**. Additionally, the ESA Φ-lab also engages  at different levels with the development of about 20 satellites, ranging from technology demonstrators to operational or commercial missions, the vast majority of which are AI-powered as shown in the image below.
@@ -238,7 +239,7 @@ R\&D activities conducted by the Φ-lab Explore focus on key AI-related technolo
 In pursuit of these goals, Φ-lab Explore Office extensively on activities aiming at community engagement, dissemination and partnership creation with academic and industrial partners, international organizations, and other ESA divisions. To foster research and use of AI for EO use cases, the Φ-lab Explore Office has contributed to the release of: numerous *datasets* (e.g., [WorldStrat](https://worldstrat.github.io/), [Seeing Beyond the Visible](https://platform.ai4eo.eu/seeing-beyond-the-visible/data), [Major TOM](https://philab.esa.int/hello-major-tom-esa-%CF%86-lab-releases-largest-ml-ready-sentinel-2-dataset-ever-published/), [THRawS](https://zenodo.org/records/7908728), [VSD2Raw](https://zenodo.org/records/7982468), and [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL)) and toolboxes (please consult [ESA-PhiLab GitHub](https://github.com/ESA-PhiLab)).
 
 ***
-## 4.7. UKSA Initiative in AI and ML for Earth Observation
+## 4.7. UKSA Initiative in AI and ML for Earth Observation<a id='4.7'></a> 
 
 **Overview**
 
@@ -277,7 +278,7 @@ The collaboration between UKSA and NCEO is set to expand further, with ongoing r
 In conclusion, the UKSA initiative, in collaboration with NCEO, is making significant strides in utilizing AI and ML for Earth observation. Through innovative data processing, harmonization, and application development, they are enhancing our understanding of the Earth and its systems, ultimately contributing to better environmental management and policy-making.
 
 ***
-## 4.8. GISTDA
+## 4.8. GISTDA<a id='4.8'></a> 
 
 The Geo-Informatics and Space Technology Development Agency (GISTDA) is utilizing AI/ML across various fields in Thailand’s Earth observation ecosystem and geospatial intelligence missions. GISTDA’s long-term vision is to leverage AI/ML for space data analysis through the evidence-based Geointelligence LLM platform, in order to support effective decision-making, promote sustainable development, and provide insights to inform national policymaking. Recognizing the importance of AI/ML technology, a five-year AI/ML development roadmap has currently been drafted for GISTDA’s key missions, emphasizing resilience, innovation, and responsiveness to societal needs, as shown in the image below.
 
