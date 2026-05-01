@@ -64,7 +64,6 @@ The interferogram between two SAR images contains information on the phase diffe
 [^3]: Content modified and adapted with permission from the [Satellite Applications Catapult Whitepaper by Kalaitzis et al. (2022) : State of AI for Earth Observation.](https://sa.catapult.org.uk/digital-library/white-paper-state-of-ai-for-earth-observation/)
 
 ***
-***
 
 ## 2.2. Core ideas in Deep Learning [^1]
 
