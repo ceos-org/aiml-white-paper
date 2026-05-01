@@ -3,7 +3,7 @@
 ***
 # 1\. Introduction
 
-## 1.1. Preface by the co-chairs
+## 1.1. Preface by the co-chairs<a id='1.1'></a> 
 
 Satellite Earth Observation (EO) technologies allow us to 'look back in time' as far as the 1970s[^1], offering valuable insights into the state of the natural environment and the impacts of human activities. This long-term, global coverage provides a unique perspective for measuring, monitoring and understanding environmental dynamics that are critical to addressing today’s greatest challenges, particularly in advancing the sustainability agenda. Even Antarctic glaciers have recently been named after their ‘satellite heroes’[^2], acknowledging the role of EO in revealing the effects of human activities and a changing climate on these fragile landscapes.
 
@@ -16,7 +16,7 @@ We especially encourage contributions from space agencies and institutions in th
 
 TEIG co-chairs
 
-## 1.2. TEIG Contributors
+## 1.2. TEIG Contributors<a id='1.2'></a> 
 
 This document has been developed by the members of the Technology Exploration Interest Group (TEIG) of Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS). 
 
