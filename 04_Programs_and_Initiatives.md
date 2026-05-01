@@ -320,4 +320,4 @@ Through these initiatives, GISTDA is strengthening its foundation in AI and ML f
 
 ***
 
-[Previous](/research-trend-in-ai4eo/aiml-tasks-and-use-cases.md) | [Table of contents](/README.md) | [Next](ceos-seo.md)
+[Previous](03_Research-trends-in-ai4eo.md) | [Table of contents](/README.md) | [Next](05_Demonstrative_use_cases.md)
