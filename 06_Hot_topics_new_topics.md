@@ -12,7 +12,7 @@
     - [6.1.4. Limitation of Foundation Models]
     - [6.1.5. Prithvi]
     - [6.1.7. TerraMind]
-  - [6.2. LLMs]
+  - [6.2. LLMs](#6.2)
     - [6.2.1. EO Advanced AI Assistant]
 
    
