@@ -1,4 +1,4 @@
-[Previous](README.md) | [Table of contents](/README.md) | [Next](llms.md)
+[Previous](05_Demonstrative_use_cases.md) | [Table of contents](/README.md) | [Next](07_Data_and_Platforms.md)
 
 ***
 
@@ -106,4 +106,4 @@ The assistant uses Retrieval Augmented Generation (RAG) to provide answers from 
 ***
 [^^^Back to the top](#6.0)
 
-[Previous](README.md) | [Table of contents](/README.md) | [Next](llms.md)
+[Previous](05_Demonstrative_use_cases.md) | [Table of contents](/README.md) | [Next](07_Data_and_Platforms.md)
