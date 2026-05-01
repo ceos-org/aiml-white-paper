@@ -1,4 +1,4 @@
-[Next](introduction/README.md)
+[Next](01_Introduction.md)
 
 ***
 # CEOS ML/DL/AI White Paper 
@@ -75,4 +75,4 @@ We especially encourage contributions from space agencies and institutions in th
 
 TEIG co-chairs: Yousuke Ikehata (JAXA) and Maral Bayaraa (UK)
 
-[Next](introduction/README.md)
+[Next](01_Introduction.md)
