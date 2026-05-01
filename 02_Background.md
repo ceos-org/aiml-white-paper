@@ -69,7 +69,7 @@ The interferogram between two SAR images contains information on the phase diffe
 
 ***
 
-## 2.2. Core ideas in Deep Learning [^1]<a id='2.2.0'></a> 
+## 2.2. Core ideas in Deep Learning<a id='2.2.0'></a> 
 
 Machine Learning research is experiencing its biggest growth spurt in the history of the field. With groundbreaking ideas being published several times a year, how can one keep up with the field? The good news is that the useful set of foundational ideas is updated only every few years. Below, we describe a subset of those ideas at an intuitive level, and why they matter for EO.
 
