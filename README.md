@@ -20,11 +20,11 @@ Issue: Version 1.0
   - [2.1. Overview of Earth Observation](02_Background.md)
   - [2.2. Core ideas in Deep Learning](https://github.com/ceos-org/aiml-white-paper/blob/main/02_Background.md#2.2)
 - [**3\. Research trends in AI4EO**](03_Research-trends-in-ai4eo.md)
-  - [3.1. Venues of cross-disciplinary research]
-  - [3.2. From sensing to applications]
-  - [3.3. The future of AI4EO research]
-  - [3.4. MLOps Life cycle and tasks]
-  - [3.5. AI/ML Tasks and use cases]
+  - [3.1. Venues of cross-disciplinary research](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.1)
+  - [3.2. From sensing to applications](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.2)
+  - [3.3. The future of AI4EO research](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.3)
+  - [3.4. MLOps Life cycle and tasks](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.4)
+  - [3.5. AI/ML Tasks and use cases](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.5)
 - [**4\. Programs and Initiatives**](04_Programs_and_initiatives.md)
   - [4.1. CEOS EO-GPT & CEOS-GPT)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.1)
   - [4.2. GEO](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.2)
