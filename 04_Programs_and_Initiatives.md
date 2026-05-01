@@ -44,7 +44,7 @@ The following two approaches are explored for constructing generative systems: (
 
 The CEOS SEO plans to further develop  these early-stage research applications and ultimately release them as tools for the CEOS community.
 
-[^Back to the top](#4.0)
+[^^^Back to the top](#4.0)
 ***
 
 ## 4.2. GEO<a id='4.2'></a> 
@@ -91,6 +91,8 @@ The testing phase utilizes [Harmonized Landsat and Sentinel-2](https://hls.gsfc.
 
 **8\. Digital Earth Africa**  
 [Digital Earth Africa (DE Africa)](https://digitalearthafrica.org/en_za/) is an African program that provides access to and capacity development in EO technology for the African continent, with the aim of enhancing the application and uptake of EO in African countries. DE Africa supports climate action in particular through data and analytics addressing food and water security, nature based solutions, ecosystem management, land degradation and coastline change. ARD, such as annual surface reflectance geomedian images derived from Landsat and Sentinel missions, are provided to users alongside examples and guidance on how to incorporate them into ML workflows, such as land use classification, while a selection of DE Africa’s Continental Services (continental scale thematic products) are derived from ML applied to ARD. For example, the DE Africa Cropland Extent map was produced with ML applied to [Sentinel-2 GeoMADs](https://digitalearthafrica.org/en_za/geomad/) as input data. In this way, ARD provided by DE Africa can also be considered as ML-ready. Digital Earth Africa therefore produces and supports user creation of end-to-end ML workflows based on satellite-derived EO data.
+
+[^^^Back to the top](#4.0)
 
 ***
 ## 4.3. NASA<a id='4.3'></a> 
@@ -141,6 +143,8 @@ Recent ACCESS projects highlight how NASA is applying AI/ML to Earth observation
 * [Spatio-Temporal Machine Learning and Cloud Computing for Predicting Dynamics of Global Vegetation Structure from Active Satellite Sensors](https://www.earthdata.nasa.gov/esds/competitive-programs/access/ml-vegetation-structure)  
 * [Training Data for Streamflow Estimation](https://www.earthdata.nasa.gov/esds/competitive-programs/access/streamflow-estimation)
 
+[^^^Back to the top](#4.0)
+
 ***
 ## 4.4. NOAA<a id='4.4'></a> 
 
@@ -171,6 +175,7 @@ NOAA has invested in the improvement of selected datasets for AI applications, s
 
 Additionally, NOAA is actively seeking public-private partnership to enhance the usability of earth observation data for high-impact AI applications including AI for numerical weather prediction. One specific example is the collaboration between the NOAA Physical Sciences Laboratory and Brigntband to transform the archive of a diverse set of quality-controlled satellite observations to cloud-native data format to support data assimilation (https://techpartnerships.noaa.gov/tpo\_partnership/making-observation-data-ai-ready/). The resulting dataset – NOAA-NASA Joint Archive AI-ready data (NNJA-AI) – is made publicly available via the NOAA Open Data Dissemination program on Google Cloud.
 
+[^^^Back to the top](#4.0)
 
 ***
 
@@ -238,6 +243,8 @@ R\&D activities conducted by the Φ-lab Explore focus on key AI-related technolo
 
 In pursuit of these goals, Φ-lab Explore Office extensively on activities aiming at community engagement, dissemination and partnership creation with academic and industrial partners, international organizations, and other ESA divisions. To foster research and use of AI for EO use cases, the Φ-lab Explore Office has contributed to the release of: numerous *datasets* (e.g., [WorldStrat](https://worldstrat.github.io/), [Seeing Beyond the Visible](https://platform.ai4eo.eu/seeing-beyond-the-visible/data), [Major TOM](https://philab.esa.int/hello-major-tom-esa-%CF%86-lab-releases-largest-ml-ready-sentinel-2-dataset-ever-published/), [THRawS](https://zenodo.org/records/7908728), [VSD2Raw](https://zenodo.org/records/7982468), and [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL)) and toolboxes (please consult [ESA-PhiLab GitHub](https://github.com/ESA-PhiLab)).
 
+[^^^Back to the top](#4.0)
+
 ***
 ## 4.7. UKSA Initiative in AI and ML for Earth Observation<a id='4.7'></a> 
 
@@ -277,6 +284,8 @@ The collaboration between UKSA and NCEO is set to expand further, with ongoing r
 
 In conclusion, the UKSA initiative, in collaboration with NCEO, is making significant strides in utilizing AI and ML for Earth observation. Through innovative data processing, harmonization, and application development, they are enhancing our understanding of the Earth and its systems, ultimately contributing to better environmental management and policy-making.
 
+[^^^Back to the top](#4.0)
+
 ***
 ## 4.8. GISTDA<a id='4.8'></a> 
 
@@ -306,6 +315,8 @@ GISTDA and National Electronics and Computer Technology Center (NECTEC)plan to d
 
 **Impact and Future Directions**  
 Through these initiatives, GISTDA is strengthening its foundation in AI and ML for Earth observation and geospatial applications. The continued integration of these technologies will enhance Thailand’s capacity in environmental monitoring, disaster resilience, and space technology development. Looking forward, GISTDA aims to expand its AI/ML capabilities through international collaboration and knowledge exchange under CEOS and GEO frameworks. These efforts reflect GISTDA’s commitment to advancing responsible, explainable, and impactful AI applications that contribute to global sustainability and equitable access to Earth observation benefits.
+
+[^^^Back to the top](#4.0)
 
 ***
 
