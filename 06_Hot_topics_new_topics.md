@@ -24,6 +24,7 @@ The paradigm shift in AI/ML is the idea of being able to train a machine learnin
 *Figure 6.1-1: foundation models aim to be able to take many different types of data, including different EO data modalities for a variety of downstream taks. From [Xiong et al. (2024)](https://arxiv.org/pdf/2403.15356v2)*
 
 Foundation models can be categorized by its functions.
+[^^^Back to the top](#6.0)
 
 ### 6.1.1. Vision Foundation Model<a id='6.1.1'></a> 
 
@@ -34,6 +35,7 @@ Exclusively trained on visual data, these models learn hierarchical, multi-scale
 
 ![Figure6.1.1-1](/figures/Figure6.1.1-1.png)  
 *Figure 6.1.1-1: foundation models aim to be able to take many different types of data, including different EO data modalities for a variety of downstream tasks. From [XIan Sun et al.](https://ieeexplore.ieee.org/document/9844015)*
+[^^^Back to the top](#6.0)
 
 ### 6.1.2. Vision-Language Foundation Model<a id='6.1.2'></a> 
 
@@ -54,6 +56,7 @@ Generative models perform enhancement and restoration (super-resolution, pan-sha
 
 ![Figure6.1.3-1](/figures/Figure6.1.3-1.png)  
 *Figure 6.1.3-1. From [Zhiping Yu et al. (2024)](https://arxiv.org/abs/2405.13570)*
+[^^^Back to the top](#6.0)
 
 ### 6.1.4. Limitation of Foundation Models<a id='6.1.4'></a> 
 
@@ -67,6 +70,7 @@ Despite the promise of foundation models, there are critical challenges currentl
 ### 6.1.5. Prithvi<a id='6.1.5'></a> 
 
 Prithvi is a first-of-its-kind temporal Vision Transformer foundation model developed collaboratively by IBM and NASA, pre-trained on contiguous US Harmonized Landsat Sentinel 2 (HLS) data using a self-supervised Masked AutoEncoder (MAE) learning strategy. The model uniquely incorporates both spatial attention across multiple patches and temporal attention for each patch, accepting remote sensing data in video format with a crucial temporal dimension that distinguishes it from other geospatial models. Its accuracy outperforms six other geospatial foundation models when benchmarked on remote sensing tasks across different domains and resolutions (from 0.1m to 15m), demonstrating versatility in both classical earth observation and high-resolution applications. The model has wide-ranging potential applications including tracking land use changes, monitoring natural disasters, and predicting crop yields. 
+[^^^Back to the top](#6.0)
 
 ### 6.1.6. TerraMind<a id='6.1.6'></a> 
 
@@ -84,6 +88,7 @@ While LLMs have traditionally been applied in natural language processing tasks,
 * Metadata and Report Generation: LLMs are used to generate textual summaries of satellite imagery analysis, automate mission reports, and create descriptions for geospatial datasets.  
 * Semantic Search & Retrieval: By linking natural language queries to remote sensing data, LLMs enable intuitive search and support interfaces (ref. [EO advanced AI Assistant](#6.2.1.-eo-advanced-ai-assistant))  
 * Multimodal Systems: Combined with vision models, LLMs support vision-language tasks such as image captioning, question answering, and cross-modal analysis in remote sensing contexts.(ref. [Vision-Language Models](#6.1.2.-vision-language-foundation-model))
+[^^^Back to the top](#6.0)
 
 ### 6.2.1. EO Advanced AI Assistant<a id='6.2.1'></a> 
 
@@ -95,6 +100,7 @@ This multi function solution provides users with a single interface to simplify 
 The EO AI Advanced Assistant is being developed with operational principles in mind ensuring compliance with security and hosting requirements for future upscaling and operational release as well as integration with a wider range of tools and services.  
 The strength of the assistant lies in its versatile orchestration of AI tools and pipelines delivering a personalized experience for data product discovery, visualisation, technical and code based support and data access bridging the gap between research and operations.  
 The assistant uses Retrieval Augmented Generation (RAG) to provide answers from a regularly updated vector database of contents which uses sources such as the Earth Online website ([earth.esa.int](http://earth.esa.int)) and the eoPortal website ([eoportal.org](http://eoportal.org)). The eoPortal website is a compendium of global Earth Observation missions built on top of the CEOS Missions, Instruments and Measurements Database ([https://database.eohandbook.com/](https://database.eohandbook.com/) ).
+[^^^Back to the top](#6.0)
 
 ***
 
