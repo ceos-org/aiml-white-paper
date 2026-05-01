@@ -25,7 +25,7 @@ Issue: Version 1.0
   - [3.3. The future of AI4EO research](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.3)
   - [3.4. MLOps Life cycle and tasks](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.4)
   - [3.5. AI/ML Tasks and use cases](https://github.com/ceos-org/aiml-white-paper/blob/main/03_Research-trends-in-ai4eo.md#3.5)
-- [**4\. Programs and Initiatives**](04_Programs_and_initiatives.md)
+- [**4\. Programs and Initiatives**](04_Programs_and_Initiatives.md)
   - [4.1. CEOS EO-GPT & CEOS-GPT)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.1)
   - [4.2. GEO](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.2)
   - [4.3. NASA (ESDIS, IMPACT)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.3)
