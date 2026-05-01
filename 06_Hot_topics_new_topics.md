@@ -2,7 +2,21 @@
 
 ***
 
-## 6.1. Foundational Models
+# 6. Hot topics / New Topics<a id='6.0'></a> 
+
+- [**6\. Hot topics/New topics**](#6.0)
+  - [6.1. Foundational Models](#6.1)
+    - [6.1.1. Vision Foundation Model]
+    - [6.1.2. Vision-Language Foundation Model]
+    - [6.1.3. Generative Foundation Models]
+    - [6.1.4. Limitation of Foundation Models]
+    - [6.1.5. Prithvi]
+    - [6.1.7. TerraMind]
+  - [6.2. LLMs]
+    - [6.2.1. EO Advanced AI Assistant]
+
+   
+## 6.1. Foundational Models<a id='6.1'></a> 
 
 The paradigm shift in AI/ML is the idea of being able to train a machine learning model capable of doing many different tasks (object detection, segmentation, image captioning, classification..) based on data from a variety of satellite sensors. This is the promise of ‘foundation models’, as shown in Figure 5.1-1. It represents a shift away from task-specific AI/ML approaches (such as the ones described in Section Y) to versatile models that are trained on multi-modal data from different satellite sensors, resolutions that can be adapted to make predictions across a range of downstream tasks, such as predicting wildfires to mapping land cover and floods to forest monitoring.  
 
@@ -57,6 +71,30 @@ Prithvi is a first-of-its-kind temporal Vision Transformer foundation model deve
 ### 6.1.7. TerraMind
 
 TerraMind is the first multimodal generative foundation model for Earth Observation, developed jointly by IBM, the European Space Agency (ESA) Φ-lab, and the FAST-EO project. The model uses a dual-scale transformer-based encoder-decoder architecture built on Prithvi that simultaneously processes pixel-level and token-level data Geospatial foundation models for image analysis: evaluating and enhancing NASA-IBM Prithvi’s domain adaptability, combining insights from nine types of Earth observation data, include optical and radar imagery from Sentinel-1 and -2 satellites, textual representations of the environment, geomorphology, AI generated Land cover classification, vegetation, and historical climate data, to provide an intuitive understanding of our planet. TerraMind introduces the "Thinking-in-Modalities" approach to handle missing modalities and reaches new state-of-the-art results on downstream tasks. The model outperforms comparable models in performance tests while requiring less computing power, and is available as an open-source model on Hugging Face for researchers and practitioners working with geospatial data.
+
+***
+
+## 6.2. LLMs<a id='6.2'></a> 
+
+Large Language Models(LLMs) are used on various occasions without earth observation.
+
+**Use cases**  
+While LLMs have traditionally been applied in natural language processing tasks, their integration into remote sensing is gaining traction. Key current use cases include:
+
+* Metadata and Report Generation: LLMs are used to generate textual summaries of satellite imagery analysis, automate mission reports, and create descriptions for geospatial datasets.  
+* Semantic Search & Retrieval: By linking natural language queries to remote sensing data, LLMs enable intuitive search and support interfaces (ref. [EO advanced AI Assistant](#6.2.1.-eo-advanced-ai-assistant))  
+* Multimodal Systems: Combined with vision models, LLMs support vision-language tasks such as image captioning, question answering, and cross-modal analysis in remote sensing contexts.(ref. [Vision-Language Models](#6.1.2.-vision-language-foundation-model))
+
+### 6.2.1. EO Advanced AI Assistant
+
+The EO AI Advanced Assistant is a research demonstrator which aims to provide quick and unrestricted access to ESA Earth Explorers and Third Party Mission data, information and services made available by the European Space Agency.
+
+This project which is currently at the pre-operational beta version stage leverages Large Language Models and Natural Language Processing techniques for intent understanding, query interpretation and name entity recognition. The LLM has been enhanced with features which allow it to extract queries and parameters via the EO MAAP Catalogue API, ESA TellUs API and EO Identity Access Management API. This allows integration with systems for data discovery, data request and personal user profile retrieval. Furthermore the system queries a vector database of regularly updated web information furnished by ESA via the Earth Online (earth.esa.int) and eoPortal (eoportal.org) websites allowing it to provide the latest updates to its users.  
+To address the limitations of LLM hallucinations the mechanism is validated through transformed based pipelines fine tuned on EO specific entities.  
+This multi function solution provides users with a single interface to simplify access for both entry-level and experienced users.  
+The EO AI Advanced Assistant is being developed with operational principles in mind ensuring compliance with security and hosting requirements for future upscaling and operational release as well as integration with a wider range of tools and services.  
+The strength of the assistant lies in its versatile orchestration of AI tools and pipelines delivering a personalized experience for data product discovery, visualisation, technical and code based support and data access bridging the gap between research and operations.  
+The assistant uses Retrieval Augmented Generation (RAG) to provide answers from a regularly updated vector database of contents which uses sources such as the Earth Online website ([earth.esa.int](http://earth.esa.int)) and the eoPortal website ([eoportal.org](http://eoportal.org)). The eoPortal website is a compendium of global Earth Observation missions built on top of the CEOS Missions, Instruments and Measurements Database ([https://database.eohandbook.com/](https://database.eohandbook.com/) ).
 
 ***
 
