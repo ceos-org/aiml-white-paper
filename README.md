@@ -25,16 +25,14 @@ Issue: Version 1.0
   - [3.3. The future of AI4EO research]
   - [3.4. MLOps Life cycle and tasks]
   - [3.5. AI/ML Tasks and use cases]
-    
 - [**4\. Programs and Initiatives**](04_Programs_and_initiatives.md)
-  - [4.1. CEOS EO-GPT & CEOS-GPT)](04_Programs_and_initiatives.md#4.1)
-  - [4.2. GEO](04_Programs_and_initiatives.md#4.2)
-  - [4.3. NASA (ESDIS, IMPACT)](04_Programs_and_initiatives.md#4.3)
-  - [4.4. NOAA/NCAI](04_Programs_and_initiatives.md#4.4)
-  - [4.5. Indian Space Research Organization (ISRO)](04_Programs_and_initiatives.md#4.5)
-  - [4.6. European Space Agency φ-lab](04_Programs_and_initiatives.md#4.6)
-  - [4.7. UKSA Initiative in AI and ML for Earth Observation](04_Programs_and_initiatives.md#4.7)
-    
+  - [4.1. CEOS EO-GPT & CEOS-GPT)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.1)
+  - [4.2. GEO]
+  - [4.3. NASA (ESDIS, IMPACT)]
+  - [4.4. NOAA/NCAI]
+  - [4.5. Indian Space Research Organization (ISRO)]
+  - [4.6. European Space Agency φ-lab]
+  - [4.7. UKSA Initiative in AI and ML for Earth Observation]
 - [**5\. Demonstrative use-cases**](05Demonstrative-use-cases)
   - [5.1. Climate]
   - [5.2. Disaster]
