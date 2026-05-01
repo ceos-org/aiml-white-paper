@@ -3,7 +3,7 @@
 ***
 # CEOS ML/DL/AI White Paper 
 
-Technology Exploration Interest Group of [CEOS-WGISS](/https://ceos.org/ourwork/workinggroups/wgiss/)
+Technology Exploration Interest Group of CEOS-WGISS
 
 Doc. Ref.: CEOS/WGISS TEIG(Technology Exploration Interest Group)
 
