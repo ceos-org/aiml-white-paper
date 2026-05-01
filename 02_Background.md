@@ -3,6 +3,10 @@
 ***
 # 2. Background 
 
+- [**2\. Background**](02_Background.md)
+  - [2.1. Overview of Earth Observation](02_Background.md)
+  - [2.2. Core ideas in Deep Learning](https://github.com/ceos-org/aiml-white-paper/blob/main/02_Background.md#2.2)
+    
 ## 2.1. Overview of Earth Observation[^3]
 
 **Observation** is the process through which mankind is able to collect factual data about their physical surroundings. While **Earth Observation** per se comprises any observation that targets the Earth and anything in on or around it, the most prominent of its sub-domains is probably ‘remote sensing’, of which a significant part is carried out using satellites.  Satellite EO can be thought of as a modern day [‘macroscope’](https://en.wikipedia.org/wiki/Macroscope_\(science_concept\)). Whilst traditional microscopes enabled us to study our world at the micro scale, satellite EO is enabling a global-scale view of the Earth and its processes.  
