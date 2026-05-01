@@ -41,6 +41,8 @@ Nakata et al. (in prep.) employed a NN model to estimate thin ice thickness belo
 ![Thin ice thickness](/figures/Figure5.1.2-1.png)  
 Figure 5.1.2-1\. (a) Thin ice area (yellow regions) derived from the previous algorithm. (b) Pseudo-color composite image derived from the AI/ML approach (Red: thin ice probability, 50–100%; Green: thin ice thickness, 20–0 cm).
 
+[^^^Back to the top](#4.0)
+
 ***
 ## 5.2. Disaster<a id='5.2'></a> 
 
@@ -144,6 +146,8 @@ Refer the document and doi.
 [^1]: This section was provided by Guy Schumann and is based on FloodSENS ML using Sentinel-2. Main paper is here: https://ieeexplore.ieee.org/document/10282274 for reference.
 [^2]: This section was written by Raquel Rodriguez Suquet, and it is based on FloodML algorithm[[147](/references.md#ref.147)]
 
+[^^^Back to the top](#4.0)
+
 ***
 ## 5.3. Infrastructure Monitoring<a id='5.3'></a> 
 
@@ -155,6 +159,8 @@ In parallel, deep learning approaches have been applied to detect ground deforma
 
 ![Infrastructure Monitoring](/figures/Figure5.3-1.png)  
 Figure 5.3-1: Use of machine learning approaches for detecting anomalous deformation signals from satellite InSAR data. (a) InSAR data visualised spatially over the Cadia tailings dam. © ESA Sentinel-2data and ISBAS InSAR data © Terra Motion. (b) Zoom in to the failed area of the dam. Basemap image copyright © 2021 Maxar Technologies, © CNES/Airbus, © Google Earth. (c) An example of an InSAR measurement showing a typical linear deformation with all test measurements within uncertainty envelope of Gaussian Process Regression. (d) An example of anomalous deformation behaviour, with the last four measurements (in blue) falling significantly outside the uncertainty envelope. Modified with permission from [Bayaraa et al. (2023)](https://www.mdpi.com/2072-4292/15/20/4910). 
+
+[^^^Back to the top](#4.0)
 
 ***
 ## 5.4. Precipitation<a id='5.4'></a> 
@@ -169,6 +175,8 @@ This method is now operationally used in “[Today’s Earth \- Japan](https://w
 
 ![Averaged hourly precipitation in January](/figures/Figure5.4-1.png)  
 Figure 5.4-1: Averaged hourly precipitation in January from (a) Radar-AMeDAS, (b) MSM-GPV, (c) QM, and (d) CDFt, (e) SVM, (f) SVM-QM, and (g) SVM-CDFt. The  statistical metrics evaluated against Radar-AMeDAS were shown in each subplot, and the units for R, RMSE, and bias are unitless, mm/hr, and mm/hr, respectively. Modified with permission from [Yin et al., 2022](https://doi.org/10.1016/j.jhydrol.2022.128125)
+
+[^^^Back to the top](#4.0)
 
 ***
 ## 5.5. Sustainable Finance<a id='5.5'></a> 
@@ -187,6 +195,6 @@ Use of a variety of advanced deep learning approaches with satellite data to fin
 Figure 5.6-1: Use of deep learning and satellite data for characterising global cement assets. Modified with permission from [Rossi et al. (2022)](https://ieeexplore.ieee.org/abstract/document/9883772).
 
 ***
-
+[^^^Back to the top](#4.0)
 
 [Previous](/programs-and-initiatives/gistda.md) | [Table of contents](/README.md) | [Next](climate.md)
