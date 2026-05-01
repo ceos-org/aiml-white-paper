@@ -5,7 +5,7 @@
 
 - [**2\. Background**](02_Background.md)
   - [2.1. Overview of Earth Observation](02_Background.md)
-  - [2.2. Core ideas in Deep Learning](https://github.com/ceos-org/aiml-white-paper/blob/main/02_Background.md#2.2)
+  - [2.2. Core ideas in Deep Learning](#2.2)
     
 ## 2.1. Overview of Earth Observation[^3]
 
