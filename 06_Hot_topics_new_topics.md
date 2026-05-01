@@ -6,14 +6,14 @@
 
 - [**6\. Hot topics/New topics**](#6.0)
   - [6.1. Foundational Models](#6.1)
-    - [6.1.1. Vision Foundation Model]
-    - [6.1.2. Vision-Language Foundation Model]
-    - [6.1.3. Generative Foundation Models]
-    - [6.1.4. Limitation of Foundation Models]
-    - [6.1.5. Prithvi]
-    - [6.1.7. TerraMind]
+    - [6.1.1. Vision Foundation Model](#6.1.1)
+    - [6.1.2. Vision-Language Foundation Model](#6.1.2)
+    - [6.1.3. Generative Foundation Models](#6.1.3)
+    - [6.1.4. Limitation of Foundation Models](#6.1.4)
+    - [6.1.5. Prithvi](#6.1.5)
+    - [6.1.6. TerraMind](#6.1.6)
   - [6.2. LLMs](#6.2)
-    - [6.2.1. EO Advanced AI Assistant]
+    - [6.2.1. EO Advanced AI Assistant](#6.2.1)
 
    
 ## 6.1. Foundational Models<a id='6.1'></a> 
@@ -25,7 +25,7 @@ The paradigm shift in AI/ML is the idea of being able to train a machine learnin
 
 Foundation models can be categorized by its functions.
 
-### 6.1.1. Vision Foundation Model
+### 6.1.1. Vision Foundation Model<a id='6.1.1'></a> 
 
 These models are trained solely on visual (image-based) data from remote sensing platforms such as satellites or drones. They are designed to understand and interpret spatial features and patterns in imagery. Applications include land cover classification, object detection, semantic segmentation, and change detection. 
 
@@ -35,7 +35,7 @@ Exclusively trained on visual data, these models learn hierarchical, multi-scale
 ![Figure6.1.1-1](/figures/Figure6.1.1-1.png)  
 *Figure 6.1.1-1: foundation models aim to be able to take many different types of data, including different EO data modalities for a variety of downstream tasks. From [XIan Sun et al.](https://ieeexplore.ieee.org/document/9844015)*
 
-### 6.1.2. Vision-Language Foundation Model
+### 6.1.2. Vision-Language Foundation Model<a id='6.1.2'></a> 
 
 These models combine visual data with textual data (e.g., labels, descriptions, captions, metadata). They are trained on paired image-text datasets and can understand and generate natural language related to remote sensing imagery. This allows for capabilities like image captioning, visual question answering (VQA), and cross-modal retrieval (e.g., finding images based on text queries or vice versa).
 
@@ -45,7 +45,7 @@ Multimodal learning that fuses vision and language by aligning image and text re
 ![Figure6.1.2-1](/figures/Figure6.1.2-1.png)  
 *Figure 6.1.2-1:EarthGPT as Vision Language Models From [Wei Zhang et al.(2024)](https://arxiv.org/pdf/2401.16822)*
 
-### 6.1.3. Generative Foundation Models
+### 6.1.3. Generative Foundation Models<a id='6.1.3'></a> 
 
 These models are capable of generating new data, either visual or multimodal, based on learned representations. They include generative models like GANs, diffusion models, or transformer-based models such as GPT for geospatial data. Applications include synthetic image generation (e.g., simulating satellite images), super-resolution, data augmentation, and future prediction (e.g., predicting land change).
 
@@ -55,7 +55,7 @@ Generative models perform enhancement and restoration (super-resolution, pan-sha
 ![Figure6.1.3-1](/figures/Figure6.1.3-1.png)  
 *Figure 6.1.3-1. From [Zhiping Yu et al. (2024)](https://arxiv.org/abs/2405.13570)*
 
-### 6.1.4. Limitation of Foundation Models
+### 6.1.4. Limitation of Foundation Models<a id='6.1.4'></a> 
 
 There are notable foundation models such as Prithvi, Terramind.
 
@@ -64,11 +64,11 @@ Despite the promise of foundation models, there are critical challenges currentl
 ![Figure6.1.4-1](/figures/Figure6.1.4-1.png)  
 *Figure 6.1.4-1: Comparison of the performance of different foundation models and a task-specific UNet model on a variety of dataset. The y-axis represents the normalized performance across the 11 PANGAEA’s benchmark datasets, where the best performing model is assigned a value of 1 and the worst performing model, a value of 0\. (a) Full Labels: the models are trained on downstream tasks with access to fall the labelled dataset. The task-specific baselines, especially UNet outperforms the foundation models. (b) Limited Labels (10%): models are trained on downstream tasks with access to only 10% of labelled data. In this scenario, the foundation models, especially CROMA, excel and outperform the supervised baselines. (c) Multi-spectral data: UNet excels and outperforms foundation models. Foundation models pre-trained on high resolution data, such as Scale-MAE, underperform. (d) High resolution data: Foundation models pre-trained on high-resolution images and UNet perform well. However, most foundation models pre-trained on lower-resolution imagery, such as Prithvi, underperform. From [Marsocci et al. (2024)](https://arxiv.org/pdf/2412.04204)*.
 
-### 6.1.5. Prithvi
+### 6.1.5. Prithvi<a id='6.1.5'></a> 
 
 Prithvi is a first-of-its-kind temporal Vision Transformer foundation model developed collaboratively by IBM and NASA, pre-trained on contiguous US Harmonized Landsat Sentinel 2 (HLS) data using a self-supervised Masked AutoEncoder (MAE) learning strategy. The model uniquely incorporates both spatial attention across multiple patches and temporal attention for each patch, accepting remote sensing data in video format with a crucial temporal dimension that distinguishes it from other geospatial models. Its accuracy outperforms six other geospatial foundation models when benchmarked on remote sensing tasks across different domains and resolutions (from 0.1m to 15m), demonstrating versatility in both classical earth observation and high-resolution applications. The model has wide-ranging potential applications including tracking land use changes, monitoring natural disasters, and predicting crop yields. 
 
-### 6.1.7. TerraMind
+### 6.1.6. TerraMind<a id='6.1.6'></a> 
 
 TerraMind is the first multimodal generative foundation model for Earth Observation, developed jointly by IBM, the European Space Agency (ESA) Φ-lab, and the FAST-EO project. The model uses a dual-scale transformer-based encoder-decoder architecture built on Prithvi that simultaneously processes pixel-level and token-level data Geospatial foundation models for image analysis: evaluating and enhancing NASA-IBM Prithvi’s domain adaptability, combining insights from nine types of Earth observation data, include optical and radar imagery from Sentinel-1 and -2 satellites, textual representations of the environment, geomorphology, AI generated Land cover classification, vegetation, and historical climate data, to provide an intuitive understanding of our planet. TerraMind introduces the "Thinking-in-Modalities" approach to handle missing modalities and reaches new state-of-the-art results on downstream tasks. The model outperforms comparable models in performance tests while requiring less computing power, and is available as an open-source model on Hugging Face for researchers and practitioners working with geospatial data.
 
@@ -85,7 +85,7 @@ While LLMs have traditionally been applied in natural language processing tasks,
 * Semantic Search & Retrieval: By linking natural language queries to remote sensing data, LLMs enable intuitive search and support interfaces (ref. [EO advanced AI Assistant](#6.2.1.-eo-advanced-ai-assistant))  
 * Multimodal Systems: Combined with vision models, LLMs support vision-language tasks such as image captioning, question answering, and cross-modal analysis in remote sensing contexts.(ref. [Vision-Language Models](#6.1.2.-vision-language-foundation-model))
 
-### 6.2.1. EO Advanced AI Assistant
+### 6.2.1. EO Advanced AI Assistant<a id='6.2.1'></a> 
 
 The EO AI Advanced Assistant is a research demonstrator which aims to provide quick and unrestricted access to ESA Earth Explorers and Third Party Mission data, information and services made available by the European Space Agency.
 
