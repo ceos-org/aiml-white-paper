@@ -24,7 +24,7 @@ The paradigm shift in AI/ML is the idea of being able to train a machine learnin
 *Figure 6.1-1: foundation models aim to be able to take many different types of data, including different EO data modalities for a variety of downstream taks. From [Xiong et al. (2024)](https://arxiv.org/pdf/2403.15356v2)*
 
 Foundation models can be categorized by its functions.
-[^^^Back to the top](#6.0)
+
 
 ### 6.1.1. Vision Foundation Model<a id='6.1.1'></a> 
 
@@ -77,6 +77,8 @@ Prithvi is a first-of-its-kind temporal Vision Transformer foundation model deve
 TerraMind is the first multimodal generative foundation model for Earth Observation, developed jointly by IBM, the European Space Agency (ESA) Φ-lab, and the FAST-EO project. The model uses a dual-scale transformer-based encoder-decoder architecture built on Prithvi that simultaneously processes pixel-level and token-level data Geospatial foundation models for image analysis: evaluating and enhancing NASA-IBM Prithvi’s domain adaptability, combining insights from nine types of Earth observation data, include optical and radar imagery from Sentinel-1 and -2 satellites, textual representations of the environment, geomorphology, AI generated Land cover classification, vegetation, and historical climate data, to provide an intuitive understanding of our planet. TerraMind introduces the "Thinking-in-Modalities" approach to handle missing modalities and reaches new state-of-the-art results on downstream tasks. The model outperforms comparable models in performance tests while requiring less computing power, and is available as an open-source model on Hugging Face for researchers and practitioners working with geospatial data.
 
 ***
+[^^^Back to the top](#6.0)
+
 
 ## 6.2. LLMs<a id='6.2'></a> 
 
@@ -100,8 +102,8 @@ This multi function solution provides users with a single interface to simplify 
 The EO AI Advanced Assistant is being developed with operational principles in mind ensuring compliance with security and hosting requirements for future upscaling and operational release as well as integration with a wider range of tools and services.  
 The strength of the assistant lies in its versatile orchestration of AI tools and pipelines delivering a personalized experience for data product discovery, visualisation, technical and code based support and data access bridging the gap between research and operations.  
 The assistant uses Retrieval Augmented Generation (RAG) to provide answers from a regularly updated vector database of contents which uses sources such as the Earth Online website ([earth.esa.int](http://earth.esa.int)) and the eoPortal website ([eoportal.org](http://eoportal.org)). The eoPortal website is a compendium of global Earth Observation missions built on top of the CEOS Missions, Instruments and Measurements Database ([https://database.eohandbook.com/](https://database.eohandbook.com/) ).
-[^^^Back to the top](#6.0)
 
 ***
+[^^^Back to the top](#6.0)
 
 [Previous](README.md) | [Table of contents](/README.md) | [Next](llms.md)
