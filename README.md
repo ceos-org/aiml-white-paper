@@ -27,12 +27,12 @@ Issue: Version 1.0
   - [3.5. AI/ML Tasks and use cases]
 - [**4\. Programs and Initiatives**](04_Programs_and_initiatives.md)
   - [4.1. CEOS EO-GPT & CEOS-GPT)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.1)
-  - [4.2. GEO]
-  - [4.3. NASA (ESDIS, IMPACT)]
-  - [4.4. NOAA/NCAI]
-  - [4.5. Indian Space Research Organization (ISRO)]
-  - [4.6. European Space Agency φ-lab]
-  - [4.7. UKSA Initiative in AI and ML for Earth Observation]
+  - [4.2. GEO](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.2)
+  - [4.3. NASA (ESDIS, IMPACT)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.3)
+  - [4.4. NOAA/NCAI](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.4)
+  - [4.5. Indian Space Research Organization (ISRO)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.5)
+  - [4.6. European Space Agency φ-lab](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.6)
+  - [4.7. UKSA Initiative in AI and ML for Earth Observation](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.7)
 - [**5\. Demonstrative use-cases**](05Demonstrative-use-cases)
   - [5.1. Climate]
   - [5.2. Disaster]
