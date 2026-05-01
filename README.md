@@ -13,8 +13,8 @@ Issue: Version 1.0
 ----
 ## Table of Contents
 
-- [**1\. Introduction**](introduction/README.md)
-  - [1.1. Preface by the co-chairs](introduction/README.md#11-preface-by-the-co-chairs)
+- [**1\. Introduction**](01_Introduction.md)
+  - [1.1. Preface by the co-chairs]
   - [1.2. TEIG Contributors](introduction/README.md#12-teig-contributors)
 - [**2\. Background**](Background/README.md)
   - [2.1. Overview of Earth Observation](Background/overview-of-earth-observation.md)
@@ -25,14 +25,16 @@ Issue: Version 1.0
   - [3.3. The future of AI4EO research](/research-trend-in-ai4eo/the-future-of-ai4eo-research.md)
   - [3.4. MLOps Life cycle and tasks](/research-trend-in-ai4eo/mlops-life-cycle-and-tasks.md)
   - [3.5. AI/ML Tasks and use cases](/research-trend-in-ai4eo/aiml-tasks-and-use-cases.md)
-- [**4\. Programs and Initiatives**](/programs-and-initiatives/README.md)
-  - [4.1. CEOS EO-GPT & CEOS-GPT)](/programs-and-initiatives/ceos-seo.md)
-  - [4.2. GEO](/programs-and-initiatives/geo.md)
-  - [4.3. NASA (ESDIS, IMPACT)](/programs-and-initiatives/nasa.md)
-  - [4.4. NOAA/NCAI](/programs-and-initiatives/noaa.md)
-  - [4.5. Indian Space Research Organization (ISRO)](/programs-and-initiatives/isro.md)
-  - [4.6. European Space Agency φ-lab](/programs-and-initiatives/european-space-agency-phi-lab.md)
-  - [4.7. UKSA Initiative in AI and ML for Earth Observation](/programs-and-initiatives/uksa-initiative-in-ai-and-ml-for-earth-observation.md)
+    
+- [**4\. Programs and Initiatives**](#4.0)
+  - [4.1. CEOS EO-GPT & CEOS-GPT)](#4.1)
+  - [4.2. GEO](#4.2)
+  - [4.3. NASA (ESDIS, IMPACT)](#4.3)
+  - [4.4. NOAA/NCAI](#4.4)
+  - [4.5. Indian Space Research Organization (ISRO)](#4.5)
+  - [4.6. European Space Agency φ-lab](#4.6)
+  - [4.7. UKSA Initiative in AI and ML for Earth Observation](#4.7)
+    
 - [**5\. Demonstrative use-cases**](/demonstrative-use-cases/README.md)
   - [5.1. Climate](/demonstrative-use-cases/climate.md)
   - [5.2. Disaster](/demonstrative-use-cases/disaster.md)
@@ -60,7 +62,7 @@ Issue: Version 1.0
 
 ***
 
-## 1.1. Preface by the co-chairs
+## Preface by the co-chairs
 
 Satellite Earth Observation (EO) technologies allow us to 'look back in time' as far as the 1970s[^1], offering valuable insights into the state of the natural environment and the impacts of human activities. This long-term, global coverage provides a unique perspective for measuring, monitoring and understanding environmental dynamics that are critical to addressing today’s greatest challenges, particularly in advancing the sustainability agenda. Even Antarctic glaciers have recently been named after their ‘satellite heroes’[^2], acknowledging the role of EO in revealing the effects of human activities and a changing climate on these fragile landscapes.
 
