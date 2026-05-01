@@ -1,4 +1,4 @@
-[Previous](/programs-and-initiatives/gistda.md) | [Table of contents](/README.md) | [Next](climate.md)
+[Previous](04_Programs_and_Initiatives.md) | [Table of contents](/README.md) | [Next](06_Hot_topics_new_topics.md)
 
 ***
 
@@ -197,4 +197,4 @@ Figure 5.6-1: Use of deep learning and satellite data for characterising global 
 ***
 [^^^Back to the top](#4.0)
 
-[Previous](/programs-and-initiatives/gistda.md) | [Table of contents](/README.md) | [Next](climate.md)
+[Previous](04_Programs_and_Initiatives.md) | [Table of contents](/README.md) | [Next](06_Hot_topics_new_topics.md)
