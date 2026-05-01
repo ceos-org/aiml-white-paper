@@ -1,4 +1,4 @@
-[Previous](README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
+[Previous](01_Introduction.md)| [Table of contents](/README.md) | [Next](03_Research-trends-in-ai4eo.md)
 
 ***
 # 2. Background[^3] 
@@ -126,4 +126,4 @@ SSL allows us to leverage as much unlabelled data as we can store, to learn ‘j
 *** 
 
 
-[Previous](README.md) | [Table of contents](/README.md) | [Next](core-ideas-in-deep-learning.md)
+[Previous](01_Introduction.md)| [Table of contents](/README.md) | [Next](03_Research-trends-in-ai4eo.md)
