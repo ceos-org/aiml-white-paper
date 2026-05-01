@@ -16,9 +16,9 @@ Issue: Version 1.0
 - [**1\. Introduction**](01_Introduction.md)
   - [1.1. Preface by the co-chairs](01_Introduction.md)
   - [1.2. TEIG Contributors](https://github.com/ceos-org/aiml-white-paper/blob/main/01_Introduction.md#1.2)
-- [**2\. Background**](02_Background)
-  - [2.1. Overview of Earth Observation](02_Background)
-  - [2.2. Core ideas in Deep Learning]
+- [**2\. Background**](02_Background.md)
+  - [2.1. Overview of Earth Observation](02_Background.md)
+  - [2.2. Core ideas in Deep Learning](https://github.com/ceos-org/aiml-white-paper/blob/main/02_Background.md#2.2)
 - [**3\. Research trends in AI4EO**](03_Research-trends-in-ai4eo.md)
   - [3.1. Venues of cross-disciplinary research]
   - [3.2. From sensing to applications]
