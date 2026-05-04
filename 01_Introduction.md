@@ -22,9 +22,10 @@ This document has been developed by the members of the Technology Exploration In
 
 **Co-chairs**
 
-JAXA 			Yousuke Ikehata
+- Yousuke Ikehata | Japan Aerospace Exploration Agency (JAXA)
 
-UK 			Maral Bayaraa (Satellite Applications Catapult representative of the UKSA)
+
+- Maral Bayaraa | Satellite Applications Catapult representative of the UK Space Agency (UKSA)
 
 **Project Members**
 
