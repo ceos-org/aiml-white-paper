@@ -15,13 +15,12 @@ Issue: Version 1.0
 
 If you wish to cite any part of the document, you may use the following:
 ```
-Ikehata, Y., Bayaraa, M., Strobl, P., Rossi, C., Meoni, G., Keary, H.A., Gupta, A., Dube, N., Borges, D., Newman, D., Albayrak, R.A., Redmon, R., Rao, Y.D., Moffat, D., Knappett, D., McKinstry, A., Demir, B., Leith, A., Kalaitzis, F., Ramage, S., Kotani, R., Su, W., Taravat, A., Schumann, G., Uriburu Quirno, M., Rodríguez Suquet, R., Straka, W., Shen, X., Corey, R., Odgers, M., Fletcher, R., Awty-Carroll, K., Sohre, T., Makoto, N., Nakata, K. and Yamamoto, K. (2025) State of AI4EO CEOS Whitepaper. Committee on Earth Observation Satellites (CEOS).
-```
-BibTeX
-```
 @article{teig2025ai4eo,
   title={State of AI4EO CEOS Whitepaper},
   author={Ikehata, Yousuke and Bayaraa, Maral and Strobl, Peter and Rossi, Cristian and Meoni, Gabriele and Keary, Hayret Abdula and Gupta, Ashutosh and Dube, Nitant and Borges, David and Newman, Douglas and Albayrak, Rustem Arif and Redmon, Rob and Rao, Yuhan Douglas and Moffat, David and Knappett, Diane and McKinstry, Alastair and Demir, Begum and Leith, Alex and Kalaitzis, Freddie and Ramage, Steven and Kotani, Rui and Su, Wenying and Taravat, Alireza and Schumann, Guy and Uriburu Quirno, Marcelo and Rodríguez Suquet, Raquel and Straka, William and Shen, Xinyi and Corey, Rebecca and Odgers, Michelle and Fletcher, Rob and Awty-Carroll, Katie and Sohre, Tom and Makoto, Natsuisaka and Nakata, Kazuki and Yamamoto, Kosuke}, journal={Committee on Earth Observation Satellites (CEOS)},year={2025}}
+```
+```
+Ikehata, Y., Bayaraa, M., Strobl, P., Rossi, C., Meoni, G., Keary, H.A., Gupta, A., Dube, N., Borges, D., Newman, D., Albayrak, R.A., Redmon, R., Rao, Y.D., Moffat, D., Knappett, D., McKinstry, A., Demir, B., Leith, A., Kalaitzis, F., Ramage, S., Kotani, R., Su, W., Taravat, A., Schumann, G., Uriburu Quirno, M., Rodríguez Suquet, R., Straka, W., Shen, X., Corey, R., Odgers, M., Fletcher, R., Awty-Carroll, K., Sohre, T., Makoto, N., Nakata, K. and Yamamoto, K. (2025) State of AI4EO CEOS Whitepaper. Committee on Earth Observation Satellites (CEOS).
 ```
 
 ----
