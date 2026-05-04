@@ -7,9 +7,9 @@
 
 Doc. Ref.: CEOS/WGISS TEIG(Technology Exploration Interest Group)
 
-Date: Dec.  2025
+## Issue: 
+Version 1.0, Date: Dec. 2025
 
-Issue: Version 1.0
 ----
 ## Citation recommendation
 
