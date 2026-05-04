@@ -88,34 +88,35 @@ This document has been developed by the members of the Technology Exploration In
 
 **Co-chairs**
 
-JAXA 			Yousuke Ikehata
+- Yousuke Ikehata | Japan Aerospace Exploration Agency (JAXA)
 
-UK 			Maral Bayaraa (Satellite Applications Catapult representative of the UKSA)
+
+- Maral Bayaraa | Satellite Applications Catapult representative of the UK Space Agency (UKSA)
 
 **Project Members**
 
-- EC
+- European Commission (EC)
   - Peter Strobl
-- ESA
+- European Space Agency (ESA)
   - Cristian Rossi
   - Gabriele Meoni
   - Hayret Abdula Keary
-- ISRO
+- Indian Space Research Organisation (ISRO)
   - Ashutosh Gupta
   - Nitant Dube
-- NASA
+- National Aeronautics and Space Administration (NASA)
   - David Borges
   - Douglas Newman
   - Rustem Arif Albayrak
-- NOAA
+- National Oceanic and Atmospheric Administration (NOAA)
   - Rob Redmon
   - Yuhan “Douglas” Rao
-- UK
+- United Kingdom 
   - David Moffat (PML)
   - Diane Knappett (STFC)
-- ICHEC
+- Irish Centre for High-End Computing (ICHEC)
   - Alastair McKinstry
-- TU-Berlin
+- Technische Universitat - Berlin
   - Begum Demir
 - Auspatious
   - Alex Leith
@@ -124,9 +125,9 @@ UK 			Maral Bayaraa (Satellite Applications Catapult representative of the UKSA)
 
 **Acknowledgements**
 
-- CEOS/CEO
+- CEO of the Committee on Earth Observation Satellites (CEOS)
   - Steven Ramage
-- GEO
+- The Group on Earth Observations (GEO)
   - Rui Kotani
 - WGClimate
   - Wenying Su(NASA)
@@ -137,17 +138,20 @@ UK 			Maral Bayaraa (Satellite Applications Catapult representative of the UKSA)
   - Raquel Rodríguez Suquet(CNES)
   - William Straka(CIMSS/SSEC)
   - Xinyi Shen(University of Wisconsin Milwaukee)
-- UK
+- United Kingdom
   - Rebecca Corey (UKSA)
   - Michelle Odgers(UKSA)
   - Rob Fletcher (Airbus)
   - Katie Awty-Carroll(PML)
-- USGS
+- United States Geological Survey (USGS)
   - Tom Sohre
-- JAXA
+- Japan Aerospace Exploration Agency (JAXA)
   - Natsuisaka Makoto
   - Kazuki Nakata
   - Kosuke Yamamoto
+
+[Previous](/README.md) | [Table of contents](/README.md) | [Next](02_Background.md)
+
 
 [^1]: First civilian EO satellite Landsat-1 launched in 1972. https://landsat.gsfc.nasa.gov/satellites/landsat-1/
 [^2]: https://www.bbc.com/news/science-environment-48547803 
