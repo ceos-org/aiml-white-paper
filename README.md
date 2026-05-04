@@ -11,6 +11,55 @@ Date: Dec.  2025
 
 Issue: Version 1.0
 ----
+## Citation recommendation
+
+If you wish to cite the article, you may use the following:
+
+```
+@article{teig2025ai4eo,
+  title={State of AI4EO CEOS Whitepaper},
+  author={Ikehata, Yousuke and
+Bayaraa, Maral and
+Strobl, Peter and
+Rossi, Cristian and
+Meoni, Gabriele and
+Keary, Hayret Abdula and
+Gupta, Ashutosh and
+Dube, Nitant and
+Borges, David and
+Newman, Douglas and
+Albayrak, Rustem Arif and
+Redmon, Rob and
+Rao, Yuhan Douglas and
+Moffat, David and
+Knappett, Diane and
+McKinstry, Alastair and
+Demir, Begum and
+Leith, Alex and
+Kalaitzis, Freddie and
+Ramage, Steven and
+Kotani, Rui and
+Su, Wenying and
+Taravat, Alireza and
+Schumann, Guy and
+Uriburu Quirno, Marcelo and
+Rodríguez Suquet, Raquel and
+Straka, William and
+Shen, Xinyi and
+Corey, Rebecca and
+Odgers, Michelle and
+Fletcher, Rob and
+Awty-Carroll, Katie and
+Sohre, Tom and
+Makoto, Natsuisaka and
+Nakata, Kazuki and
+Yamamoto, Kosuke
+},
+  journal={Committee on Earth Observation Satellites (CEOS)},
+  year={2025}
+}
+```
+----
 ## Table of Contents
 
 - [**1\. Introduction**](01_Introduction.md)
