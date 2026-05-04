@@ -3,7 +3,7 @@
 ***
 # State of AI4EO CEOS Whitepaper
 
-Technology Exploration Interest Group of CEOS-WGISS
+[Technology Exploration Interest Group of CEOS-WGISS](https://ceos.org/ourwork/workinggroups/wgiss/technology-exploration/)
 
 Doc. Ref.: CEOS/WGISS TEIG(Technology Exploration Interest Group)
 
