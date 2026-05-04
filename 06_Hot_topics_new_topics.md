@@ -18,7 +18,7 @@
    
 ## 6.1. Foundational Models<a id='6.1'></a> 
 
-The paradigm shift in AI/ML is the idea of being able to train a machine learning model capable of doing many different tasks (object detection, segmentation, image captioning, classification..) based on data from a variety of satellite sensors. This is the promise of ‘foundation models’, as shown in Figure 5.1-1. It represents a shift away from task-specific AI/ML approaches (such as the ones described in Section Y) to versatile models that are trained on multi-modal data from different satellite sensors, resolutions that can be adapted to make predictions across a range of downstream tasks, such as predicting wildfires to mapping land cover and floods to forest monitoring.  
+The paradigm shift in AI/ML is the idea of being able to train a machine learning model capable of doing many different tasks (object detection, segmentation, image captioning, classification..) based on data from a variety of satellite sensors. This is the promise of ‘foundation models’, as shown in Figure 5.1-1. It represents a shift away from task-specific AI/ML approaches (such as the ones described in [Section 2](02_Background.md)) to versatile models that are trained on multi-modal data from different satellite sensors, resolutions that can be adapted to make predictions across a range of downstream tasks, such as predicting wildfires to mapping land cover and floods to forest monitoring.  
 
 ![Figure6.1-1](/figures/Figure6.1-1.png)  
 *Figure 6.1-1: foundation models aim to be able to take many different types of data, including different EO data modalities for a variety of downstream taks. From [Xiong et al. (2024)](https://arxiv.org/pdf/2403.15356v2)*
