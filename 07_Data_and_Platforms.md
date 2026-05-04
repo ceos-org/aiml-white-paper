@@ -1,4 +1,4 @@
-[Previous](/hot-topics_new-topics/llms.md) | [Table of contents](/README.md) | [Next](/challenges-and-limitations-of-ai4eo/README.md)
+[Previous](06_Hot_topics_new_topics.md) | [Table of contents](/README.md) | [Next](08_Challenges_and_Limitations_of_AI4EO.md)
 
 ***
 
@@ -79,6 +79,6 @@ The key advantage of using established geospatial AI platforms over self-develop
 
 ***
 
-[Previous](/hot-topics_new-topics/llms.md) | [Table of contents](/README.md) | [Next](/challenges-and-limitations-of-ai4eo/README.md)
+[Previous](06_Hot_topics_new_topics.md) | [Table of contents](/README.md) | [Next](08_Challenges_and_Limitations_of_AI4EO.md)
 
 
