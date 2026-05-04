@@ -1,7 +1,7 @@
 [Next](01_Introduction.md)
 
 ***
-# CEOS ML/DL/AI White Paper 
+# State of AI4EO CEOS Whitepaper
 
 Technology Exploration Interest Group of CEOS-WGISS
 
