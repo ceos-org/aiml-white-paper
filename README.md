@@ -44,7 +44,6 @@ Issue: Version 1.0
   - [6.2. LLMs](https://github.com/ceos-org/aiml-white-paper/blob/main/06_Hot_topics_new_topics.md#6.2)
 - [**7\. Data and platforms**](07_Data_and_Platforms.md)
 - [**8\. Challenges & Limitations of AI4EO**](08_Challenges_and_Limitations_of_AI4EO.md)
-- [**9\. Conclusion and Future outlook.	76**]
 - [**Appendix A. Glossary**](/Appendix/appendix-a-glossary.md)
 - [**Appendix B Related Standards and Principles**](/Appendix/appendix-b-related-standards-and-principles.md)
 - [**Appendix C. Templates for use case**](/Appendix/appendix-c-templates-for-use-case.md)
