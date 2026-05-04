@@ -34,14 +34,14 @@ Issue: Version 1.0
   - [4.6. European Space Agency φ-lab](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.6)
   - [4.7. UKSA Initiative in AI and ML for Earth Observation](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.7)
 - [**5\. Demonstrative use-cases**](05_Demonstrative_use_cases.md)
-  - [5.1. Climate]
-  - [5.2. Disaster]
-  - [5.3. Infrastructure Monitoring]
-  - [5.4. Precipitation]
-  - [5.5. Sustainable Finance]
+  - [5.1. Climate](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.1)
+  - [5.2. Disaster](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.2)
+  - [5.3. Infrastructure Monitoring](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.3)
+  - [5.4. Precipitation](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.4)
+  - [5.5. Sustainable Finance](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.5)
 - [**6\. Hot topics/New topics**](06_Hot_topics_new_topics.md)
-  - [6.1. Foundational Models]
-  - [6.2. LLMs]
+  - [6.1. Foundational Models](https://github.com/ceos-org/aiml-white-paper/blob/main/06_Hot_topics_new_topics.md#6.1)
+  - [6.2. LLMs](https://github.com/ceos-org/aiml-white-paper/blob/main/06_Hot_topics_new_topics.md#6.2)
 - [**7\. Data and platforms**](07_Data_and_Platforms.md)
   - [7.1. Data for AI/ML data interoperability]
   - [7.2. Geospatial AI Platforms]
