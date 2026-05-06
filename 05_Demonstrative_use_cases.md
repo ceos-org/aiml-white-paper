@@ -148,6 +148,60 @@ Refer the document and doi.
 
 [^^^Back to the top](#4.0)
 
+
+### 5.2.5. Landslides
+
+**GOAL:**  
+Provide near-real-time and systematic identification and location of active slope instabilities at regional to national scale to support landslide mapping and risk management. The system exploits satellite InSAR time series combined with an AI-driven clustering approach and geomorphological parameters to detect slow-moving landslides, including previously unmapped or inactive inventory gaps.
+
+Expected outcomes, output format etc:  
+• Identification and classification of Active Deformation Areas (ADAs) related to landslides  
+• Slope Unit–based landslide activity maps, temporal trend indicators (accelerating/decelerating/stable)  
+• Geospatial products delivered as GeoTIFF rasters and vector layers (GeoPackage/GeoJSON) with confidence metrics  
+• National-scale screening outputs highlighting discrepancies with existing landslide inventories
+
+**AI4EO example:**  
+
+* InSAR Time‑Series Analytics, Machine Learning & Spatial Clustering
+
+InSAR timeseries (derived from the EGMS service) are processed using Machine Learning and clustering techniques to analyse ~6.5 millions of deformation measurements across the whole Great Britain. A Hierarchical Density-Based Spatial Clustering algorithm (HDBSCAN) filters noise and outliers, while spatial clustering tools identify coherent Active Deformation Areas. These are intersected with geomorphologically meaningful Slope Units and classified using morphometric parameters, land cover, and deformation direction consistency to isolate landslide-related motion.
+
+* Scope
+
+Problem statement and project scope  
+Landslide inventories are often incomplete or outdated at large spatial scales, while manual interpretation of InSAR datasets is computationally and operationally prohibitive. This approach delivers scalable, semi-automated landslide activity mapping by integrating AI-driven filtering and clustering with expert-informed geomorphological constraints. The method supports national to continental coverage using open satellite data, enabling repeatable updates and prioritisation of areas requiring detailed investigation or monitoring.
+
+* Output  
+  * Raster products (GeoTIFF):  
+    * Mean horizontal and vertical deformation velocity  
+    * Classified active motion areas related to landslides  
+  * Vector products (GeoPackage/GeoJSON):  
+    * Active Deformation Areas (ADAs)  
+    * Slope Unit–based landslide activity classes  
+    * Temporal trend labels (accelerating, decelerating, stable)  
+  * Summary statistics per administrative unit or Area of Interest (AOI):  
+    * Percentage of active slopes  
+    * Consistency/inconsistency with existing landslide inventories  
+
+* Verification Data sets  
+  * National landslide inventories (the British Geological Survey' National Landslide Database)  
+  * Well-documented reference landslides for qualitative validation  
+
+**Documentation**  
+
+Refer to peer-reviewed publications and project documentation describing the methodology, validation, and application at national scale.
+
+* Medici et al. (2025). *Machine learning and clustering for supporting the identification of active landslides at national scale*. International Journal of Applied Earth Observation and Geoinformation. DOI: https://doi.org/10.1016/j.jag.2025.104608  
+* Copernicus Land Monitoring Service – European Ground Motion Service (EGMS). Product description and technical documentation. https://egms.land.copernicus.eu/  
+* BGS National Landslide Database. Inventory structure and applications. https://www.bgs.ac.uk/geology-projects/landslides/national-landslide-database/  
+* Novellino et al. (2024). *Mapping landslides from space: A review*. Landslides.
+
+[^1]: This section is based on Medici et al. (2025), which presents a national-scale AI-assisted methodology combining MTInSAR, Machine Learning, clustering, and Slope Units to identify active landslides using Copernicus EGMS Sentinel‑1 data.  
+[^2]: The approach is designed as a screening and prioritisation tool and complements, rather than replaces, traditional landslide inventories and ground-based investigations.
+
+[^^^Back to the top](#4.0)
+
+
 ***
 ## 5.3. Infrastructure Monitoring<a id='5.3'></a> 
 
