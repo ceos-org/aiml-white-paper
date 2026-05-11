@@ -72,6 +72,8 @@ This document has been developed by the members of the Technology Exploration In
   - Raquel Rodríguez Suquet(CNES)
   - William Straka(CIMSS/SSEC)
   - Xinyi Shen(University of Wisconsin Milwaukee)
+  - Alessandro Novellino (British Geological Survey)
+  - Claire Dashwood (British Geological Survey)
 - United Kingdom
   - Rebecca Corey (UKSA)
   - Michelle Odgers(UKSA)
