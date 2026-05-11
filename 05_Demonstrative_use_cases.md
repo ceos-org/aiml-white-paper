@@ -171,13 +171,13 @@ InSAR timeseries (derived from the EGMS service) are processed using Machine Lea
 Problem statement and project scope  
 Landslide inventories are often incomplete or outdated at large spatial scales, while manual interpretation of InSAR datasets is computationally and operationally prohibitive. This approach delivers scalable, semi-automated landslide activity mapping by integrating AI-driven filtering and clustering with expert-informed geomorphological constraints. The method supports national to continental coverage using open satellite data, enabling repeatable updates and prioritisation of areas requiring detailed investigation or monitoring.
 
-![Landslide distribution map](/figures/Figure5.2.5-1.png)
+![Landslide distribution map](/figures/5.2.5-1.jpg)
 Figure 5.2.5-1\. Landslide density map of Great Britain and pie charts of the percentage of surface and landslides among England, Scotland and Wales. Original figure from Medici et al (2025), available at https://doi.org/10.1016/j.jag.2025.104608 
 
 
 * Output  
   * Raster products (GeoTIFF):  
-    * Classified active/inactive slopes related to landslides (![Active landslide deformation map](/figures/Figure5.2.5-2.png)).
+    * Classified active/inactive slopes related to landslides (![Active landslide deformation map](/figures/5.2.5-2.jpg)).
    Figure 5.2.5-2\. Classification of the InSAR landslide inventory map versus the National Landslide database of Great Britain. Additionally, three zooms of the map from Scotland (a), England (b) and Wales (c). Original figure from Medici et al (2025), available at https://doi.org/10.1016/j.jag.2025.104608 
       
   * Vector products (GeoPackage/GeoJSON):  
