@@ -4,7 +4,7 @@
 
 # 7\. Data and platforms
 
-This section introduces data and platforms used with machine learning and AI by CEOS/WGISS agencies indicated in the section 5\.
+This section introduces data and platforms used with machine learning and AI by CEOS/WGISS agencies indicated in the Section 4.
 
 ## 7.1. Data for AI/ML data interoperability
 
