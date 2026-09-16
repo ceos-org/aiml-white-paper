@@ -46,6 +46,7 @@ Ikehata, Y., Bayaraa, M., Strobl, P., Rossi, C., Meoni, G., Keary, H.A., Gupta, 
   - [4.5. Indian Space Research Organization (ISRO)](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.5)
   - [4.6. European Space Agency φ-lab](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.6)
   - [4.7. UKSA Initiative in AI and ML for Earth Observation](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.7)
+  - [4.8. GISTDA](https://github.com/ceos-org/aiml-white-paper/blob/main/04_Programs_and_Initiatives.md#4.8)
 - [**5\. Demonstrative use-cases**](05_Demonstrative_use_cases.md)
   - [5.1. Climate](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.1)
   - [5.2. Disaster](https://github.com/ceos-org/aiml-white-paper/blob/main/05_Demonstrative_use_cases.md#5.2)
