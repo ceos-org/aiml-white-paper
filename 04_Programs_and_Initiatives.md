@@ -14,7 +14,9 @@ The global space agencies that make up CEOS have launched several AI initiatives
   - [4.4. NOAA/NCAI](#4.4)
   - [4.5. Indian Space Research Organization (ISRO)](#4.5)
   - [4.6. European Space Agency φ-lab](#4.6)
-  - [4.7. UKSA Initiative in AI and ML for Earth Observation](#4.7)    
+  - [4.7. UKSA Initiative in AI and ML for Earth Observation](#4.7)
+  - [4.8. GISTDA (#4.8)]
+   
 ***
 
 ## 4.1. CEOS SEO<a id='4.1'></a> 
