@@ -240,7 +240,7 @@ Future work will adapt the approach to observations available on the target miss
 * Di Stasio, P., Sebastianelli, A., Meoni, G. and Ullo, S. L. (2022). *Early Detection of Volcanic Eruption Through Artificial Intelligence on Board*. IEEE International Conference on Metrology for Extended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), 714-718. [DOI](https://doi.org/10.1109/MetroXRAINE54828.2022.9967616).
 * Di Stasio, P., Tapete, D., Gamba, P. and Ullo, S. L. (2026). *Leveraging the Segment Anything Model with Multi-Modal Sentinel-1 and Sentinel-2 Data for Landslide Detection*. 16th European Conference on Synthetic Aperture Radar (EUSAR), 288-293. [Publication](https://ieeexplore.ieee.org/document/11677481/).
 
-[^^^Back to the top](#4.0)
+[^^^Back to the top](#5.0)
 
 
 ***
