@@ -209,6 +209,39 @@ Refer to peer-reviewed publications and project documentation describing the met
 
 [^^^Back to the top](#5.0)
 
+#### 5.2.5.2. Towards onboard AI for landslide mapping
+
+**GOAL:**
+Develop resource-efficient artificial intelligence (AI) methods for future onboard landslide mapping, aiming to reduce acquisition-to-information latency and prioritise products for disaster response and the monitoring of cascading hazards.
+
+**AI for Earth observation (AI4EO) example:**
+
+Onboard AI can extract information from satellite observations before data transmission to the ground, enabling prioritisation of relevant products under limited downlink capacity. For synthetic aperture radar (SAR), this requires balancing processing latency against computational, memory and energy constraints (Parra García et al., 2024). Previous research undertaken by University of Sannio (Italy) explored AI-based volcanic early warning with future onboard deployment as an objective (Di Stasio et al., 2022), providing a related hazard-monitoring perspective.
+
+The University of Sannio, with the Italian Space Agency and the University of Pavia, is investigating event-driven onboard landslide mapping. The proposed workflow would screen SAR intensity imagery for changes, activate detailed segmentation within selected regions of interest, and prioritise compact masks or alerts for downlink, while retaining imagery for subsequent transmission. Models would be trained and validated on the ground, with inference performed onboard. Selective activation aims to concentrate computing resources on candidate affected areas.
+
+A ground-based experimental basis is provided by work presented at the European Conference on Synthetic Aperture Radar (EUSAR) 2026 (Di Stasio et al., 2026). The study investigates whether combining Sentinel-1 radar and Sentinel-2 optical observations improves the automatic mapping of earthquake-triggered landslides. The method adapts the pretrained Segment Anything Model (SAM) to this multimodal input through early fusion and lightweight fine-tuning, producing a MultiModal Segment Anything Model (MM-SAM) for automatic landslide segmentation. On the Haiti 2021 validation set, the base Vision Transformer (ViT-B) configuration achieved a mean Intersection-over-Union (mIoU) of 0.756 with red, green and blue (RGB) optical imagery and ascending plus descending SAR, compared with 0.708 for RGB alone. Figures 5.2.5-3 and 5.2.5-4 show the study area and representative segmentation outcomes.
+
+![](figures/Figure5.2.5-3.png)
+
+**Figure 5.2.5-3.** Spatial distribution of earthquake-triggered landslides (red) over southern Haiti following the 2021 magnitude 7.2 earthquake, reproduced from Figure 1 of Di Stasio et al. (2026).
+
+**Development towards onboard processing:**
+
+Future work will adapt the approach to observations available on the target mission, including SAR-only intensity data, and investigate model compression through quantisation and pruning. Evaluation must cover image preparation and inference, measuring memory, energy and latency on representative hardware alongside segmentation accuracy and landslides missed during region screening. Adapter-based fine-tuning alone does not establish efficient onboard inference. Cross-regional validation is also required. The intended benefit is faster information delivery after acquisition; satellite revisit remains a separate constraint. Onboard implementation and hardware validation remain future work.
+
+![Qualitative landslide segmentation results obtained on the ground: optical and radar inputs followed by error maps for two model variants.](figures/Figure5.2.5-4.png)
+
+**Figure 5.2.5-4.** Ground-based landslide segmentation examples from the Haiti 2021 validation set, reproduced from Figure 3 of Di Stasio et al. (2026). Columns: (a) Sentinel-2 RGB; (b) descending Sentinel-1 pseudocolour composite; (c-f) SAM ViT-B; (g-j) Segment Anything Model version 2.1 (SAM2.1), using the Hiera-Tiny encoder. For each model, inputs are RGB, RGB + ascending SAR (ASC), RGB + descending SAR (DESC), and RGB + ASC + DESC, respectively.
+
+**Documentation**
+
+* Parra García, L., et al. (2024). *Advancements in On-Board Processing of Synthetic Aperture Radar (SAR) Data: Enhancing Efficiency and Real-Time Capabilities*. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 17, 16625-16645. [DOI](https://doi.org/10.1109/JSTARS.2024.3406155).
+* Di Stasio, P., Sebastianelli, A., Meoni, G. and Ullo, S. L. (2022). *Early Detection of Volcanic Eruption Through Artificial Intelligence on Board*. IEEE International Conference on Metrology for Extended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), 714-718. [DOI](https://doi.org/10.1109/MetroXRAINE54828.2022.9967616).
+* Di Stasio, P., Tapete, D., Gamba, P. and Ullo, S. L. (2026). *Leveraging the Segment Anything Model with Multi-Modal Sentinel-1 and Sentinel-2 Data for Landslide Detection*. 16th European Conference on Synthetic Aperture Radar (EUSAR), 288-293. [Publication](https://ieeexplore.ieee.org/document/11677481/).
+
+[^^^Back to the top](#4.0)
+
 
 ***
 ## 5.3. Infrastructure Monitoring<a id='5.3'></a> 

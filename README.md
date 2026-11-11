@@ -141,6 +141,10 @@ This document has been developed by the members of the Technology Exploration In
   - Xinyi Shen(University of Wisconsin Milwaukee)
   - Alessandro Novellino (British Geological Survey)
   - Claire Dashwood (British Geological Survey)
+  - Pietro Di Stasio (University of Sannio)
+  - Deodato Tapete (Italian Space Agency)
+  - Paolo Gamba (University of Pavia)
+  - Silvia Liberata Ullo (University of Sannio)
 - United Kingdom
   - Rebecca Corey (UKSA)
   - Michelle Odgers(UKSA)
