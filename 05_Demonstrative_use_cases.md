@@ -41,7 +41,7 @@ Nakata et al. (in prep.) employed a NN model to estimate thin ice thickness belo
 ![Thin ice thickness](/figures/Figure5.1.2-1.png)  
 Figure 5.1.2-1\. (a) Thin ice area (yellow regions) derived from the previous algorithm. (b) Pseudo-color composite image derived from the AI/ML approach (Red: thin ice probability, 50–100%; Green: thin ice thickness, 20–0 cm).
 
-[^^^Back to the top](#4.0)
+[^^^Back to the top](#5.0)
 
 ***
 ## 5.2. Disaster<a id='5.2'></a> 
