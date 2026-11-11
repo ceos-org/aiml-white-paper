@@ -238,6 +238,32 @@ Figure 5.4-1: Averaged hourly precipitation in January from (a) Radar-AMeDAS, (b
 [^^^Back to the top](#4.0)
 
 ***
+
+### 5.4.2. Hail monitoring and nowcasting<a id='5.4.2'></a>[^hail]
+
+
+**GOAL :**
+Detection (monitoring) and 15-minute-ahead prediction (nowcasting) of hail occurrence over Italy from geostationary satellite imagery, in a context where ground-based hail observations are extremely scarce.
+
+
+**METHOD :**
+Hail is a short-lived, spatially confined hazard that is poorly sampled by conventional networks. We therefore used the SEVIRI sensor onboard Meteosat Second Generation (MSG), which observes Italy every 15 minutes, and trained a machine-learning classifier to link the infrared cloud-top signal to hail at the ground. Six brightness-temperature channels and seven brightness-temperature differences (2023–2024) were combined with a digital elevation model (SRTM 90m) and space-time auxiliary features. Ground truth was provided by 18 of the 29 stations of the GID network (the only source of instrumented negatives), enriched with quality-controlled hail reports from the European Severe Weather Database (ESWD), used only as additional positives. Because the labelled data are scarce, we adopted a gradient-boosted decision-tree model (CatBoost) instead of a convolutional network, with Optuna hyperparameter tuning and 5-fold cross-validation. In nowcasting, the model uses three consecutive frames to predict the next one (t+15 min). The size of the satellite and DEM spatial windows was optimised separately for each task. CatBoost outperformed Random Forest, MLP and SVM under the same protocol.
+
+
+**RESULTS :**
+Both tasks reach a cross-validated weighted F1 of about 0.90. The models rely mainly on brightness-temperature differences, which are proxies for overshooting tops, and on the surrounding terrain. Including ESWD-derived positives is the most influential data choice: removing it lowers accuracy by 8–10 points.
+
+
+**LIMITATIONS :**
+The small ground-truth dataset (18 stations, two years) currently rules out a convolutional branch; this will be addressed by enlarging the dataset.
+![SEVIRI/MSG processed products over Italy](/figures/Figure5.4-2.png)  
+Figure 5.4-2: Example of processed SEVIRI/MSG Level 1.5 products over the Italian ROI on 20 August 2024 at 09:57 UTC. Panels (a) and (b) show the spectral radiances for the thermal infrared (IR 10.8 μm) and water vapour (WV 6.2 μm) channels. Panels (c) and (d) present their corresponding Brightness Temperatures (TB), while panel (e) depicts the Brightness Temperature Difference (DBT), highlighting convective cells over Southern Italy.
+
+[^hail]: This section was written by Emanuela Vessichelli (University of Sannio), Alessandro Sebastianelli, Ilenia Manco, Mario Raffa, Paola Mercogliano (CMCC Foundation) and Silvia Liberata Ullo (University of Sannio), and it is based on a CatBoost framework for hail monitoring and nowcasting from SEVIRI/MSG data.
+
+[^^^Back to the top](#4.0)
+
+***
 ## 5.5. Sustainable Finance<a id='5.5'></a> 
 
 **GOAL :**
